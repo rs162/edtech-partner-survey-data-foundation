@@ -1,0 +1,153 @@
+student_id,partner,started_at,survey_time,survey_wave,q1_confidence,q2_belonging,open_text
+S0159,PartnerA,2023-09-01 12:07:00,2023-09-01 12:14:29,pre,2,4,
+S0051,PartnerA,2023-11-21 19:48:00,2023-11-21 20:01:34,post,4,4,I wish we had more time for small-group work.
+S0053,PartnerA,2023-08-29 15:35:00,2023-08-29 15:49:01,pre,2,3,
+S0072,PartnerA,2023-08-25 15:49:00,2023-08-25 15:51:36,pre,2,3,The dialogue exercises were eye-opening.
+S0064,PartnerA,2023-11-25 18:44:00,2023-11-25 18:45:50,post,2,5,The dialogue exercises were eye-opening.
+S0033,PartnerA,2023-11-25 17:36:00,2023-11-25 17:38:30,post,3,3,I wish we had more time for small-group work.
+S0146,PartnerA,2023-09-02 12:12:00,2023-09-02 12:22:22,pre,3,3,
+S0131,PartnerA,2023-11-27 14:08:00,2023-11-27 14:20:03,post,3,3,I wish we had more time for small-group work.
+S0075,PartnerA,2023-11-16 20:01:00,2023-11-16 20:08:30,post,3,4,
+S0027,PartnerA,2023-08-22 12:43:00,2023-08-22 12:44:46,pre,4,4,I wish we had more time for small-group work.
+S0129,PartnerA,2023-11-17 18:12:00,2023-11-17 18:17:55,post,3,3,This helped me feel more connected to peers.
+S0111,PartnerA,2023-08-27 12:31:00,2023-08-27 12:43:57,pre,4,3,I wish we had more time for small-group work.
+S0125,PartnerA,2023-08-28 20:44:00,2023-08-28 20:58:02,pre,4,4,The dialogue exercises were eye-opening.
+S0177,PartnerA,2023-08-28 08:48:00,2023-08-28 08:52:17,pre,3,2,This helped me feel more connected to peers.
+S0030,PartnerA,2023-11-22 08:03:00,2023-11-22 08:10:18,post,4,5,I learned a lot about perspective-taking.
+S0130,PartnerA,2023-08-31 10:42:00,2023-08-31 10:48:40,pre,3,3,I learned a lot about perspective-taking.
+S0156,PartnerA,2023-11-20 14:31:00,2023-11-20 14:44:45,post,5,3,I learned a lot about perspective-taking.
+S0006,PartnerA,2023-11-17 12:36:00,2023-11-17 12:37:34,post,3,4,
+S0165,PartnerA,2023-11-21 15:47:00,2023-11-21 15:58:32,post,5,4,I learned a lot about perspective-taking.
+S0159,PartnerA,2023-11-18 19:10:00,2023-11-18 19:19:40,post,4,5,The dialogue exercises were eye-opening.
+S0137,PartnerA,2023-11-16 18:35:00,2023-11-16 18:43:44,post,3,3,I learned a lot about perspective-taking.
+S0196,PartnerA,2023-11-19 14:12:00,2023-11-19 14:24:41,post,3,4,This helped me feel more connected to peers.
+S0109,PartnerA,2023-08-22 12:50:00,2023-08-22 13:04:28,pre,3,3,
+S0196,PartnerA,2023-08-28 13:08:00,2023-08-28 13:14:14,pre,3,4,
+S0078,PartnerA,2023-11-27 13:32:00,2023-11-27 13:36:13,post,3,3,The dialogue exercises were eye-opening.
+S0181,PartnerA,2023-08-22 13:28:00,2023-08-22 13:42:09,pre,4,5,I wish we had more time for small-group work.
+S0039,PartnerA,2023-08-21 11:01:00,2023-08-21 11:14:27,pre,2,4,I learned a lot about perspective-taking.
+S0197,PartnerA,2023-11-26 18:13:00,2023-11-26 18:25:48,post,5,4,This helped me feel more connected to peers.
+S0034,PartnerA,2023-08-22 20:45:00,2023-08-22 20:51:59,pre,4,3,
+S0130,PartnerA,2023-11-27 17:36:00,2023-11-27 17:41:02,post,3,5,I learned a lot about perspective-taking.
+S0183,PartnerA,2023-08-27 17:37:00,2023-08-27 17:38:51,pre,2,4,This helped me feel more connected to peers.
+S0017,PartnerA,2023-08-31 09:06:00,2023-08-31 09:13:18,pre,3,4,
+S0161,PartnerA,2023-11-28 09:13:00,2023-11-28 09:26:23,post,3,5,
+S0112,PartnerA,2023-08-25 17:30:00,2023-08-25 17:41:00,pre,3,3,I wish we had more time for small-group work.
+S0137,PartnerA,2023-08-31 15:34:00,2023-08-31 15:37:20,pre,2,3,This helped me feel more connected to peers.
+S0107,PartnerA,2023-11-17 08:31:00,2023-11-17 08:39:00,post,5,4,I learned a lot about perspective-taking.
+S0021,PartnerA,2023-08-26 08:49:00,2023-08-26 08:52:24,pre,4,3,This helped me feel more connected to peers.
+S0126,PartnerA,2023-08-24 08:41:00,2023-08-24 08:48:32,pre,4,3,The dialogue exercises were eye-opening.
+S0031,PartnerA,2023-08-30 14:12:00,2023-08-30 14:15:50,pre,1,3,This helped me feel more connected to peers.
+S0093,PartnerA,2023-11-24 17:15:00,2023-11-24 17:26:13,post,5,2,I learned a lot about perspective-taking.
+S0071,PartnerA,2023-08-26 20:45:00,2023-08-26 20:47:05,pre,2,5,I wish we had more time for small-group work.
+S0173,PartnerA,2023-08-20 18:31:00,2023-08-20 18:32:39,pre,2,2,
+S0071,PartnerA,2023-11-22 12:32:00,2023-11-22 12:44:45,post,5,3,I learned a lot about perspective-taking.
+S0146,PartnerA,2023-11-17 12:18:00,2023-11-17 12:24:42,post,3,4,
+S0082,PartnerA,2023-11-19 20:21:00,2023-11-19 20:33:14,post,3,5,The dialogue exercises were eye-opening.
+S0072,PartnerA,2023-11-20 19:57:00,2023-11-20 20:02:48,post,2,3,I learned a lot about perspective-taking.
+S0139,PartnerA,2023-11-22 11:40:00,2023-11-22 11:50:47,post,5,2,The dialogue exercises were eye-opening.
+S0049,PartnerA,2023-11-18 13:57:00,2023-11-18 13:58:51,post,4,5,I learned a lot about perspective-taking.
+S0033,PartnerA,2023-08-20 16:23:00,2023-08-20 16:26:49,pre,2,2,I wish we had more time for small-group work.
+S0002,PartnerA,2023-11-25 11:14:00,2023-11-25 11:26:15,post,2,4,I learned a lot about perspective-taking.
+S0117,PartnerA,2023-08-31 20:14:00,2023-08-31 20:18:59,pre,2,4,
+S0156,PartnerA,2023-09-02 16:33:00,2023-09-02 16:41:30,pre,3,2,The dialogue exercises were eye-opening.
+S0148,PartnerA,2023-08-28 08:57:00,2023-08-28 09:01:03,pre,2,4,
+S0008,PartnerA,2023-09-01 08:51:00,2023-09-01 09:00:27,pre,1,4,
+S0009,PartnerA,2023-11-18 20:23:00,2023-11-18 20:36:05,post,3,3,
+S0183,PartnerA,2023-11-24 18:54:00,2023-11-24 19:00:24,post,4,5,This helped me feel more connected to peers.
+S0083,PartnerA,2023-11-27 12:52:00,2023-11-27 12:59:07,post,4,3,
+S0150,PartnerA,2023-11-27 12:32:00,2023-11-27 12:42:25,post,4,4,
+S0064,PartnerA,2023-08-25 21:49:00,2023-08-25 21:56:33,pre,2,4,
+S0155,PartnerA,2023-09-01 18:24:00,2023-09-01 18:37:49,pre,4,2,The dialogue exercises were eye-opening.
+S0038,PartnerA,2023-08-30 18:47:00,2023-08-30 18:59:50,pre,4,3,
+S0197,PartnerA,2023-08-23 09:08:00,2023-08-23 09:13:23,pre,3,3,The dialogue exercises were eye-opening.
+S0190,PartnerA,2023-11-23 14:48:00,2023-11-23 15:02:45,post,3,1,I wish we had more time for small-group work.
+S0111,PartnerA,2023-11-25 12:03:00,2023-11-25 12:10:35,post,3,3,I learned a lot about perspective-taking.
+S0149,PartnerA,2023-08-31 11:42:50,2023-08-31 11:47:50,pre,3,3,This helped me feel more connected to peers.
+S0059,PartnerA,2023-08-26 14:25:00,2023-08-26 14:33:36,pre,3,4,
+S0000,PartnerA,2023-11-16 11:46:00,2023-11-16 11:55:19,post,4,2,
+S0008,PartnerA,2023-08-15 09:00:00,2023-08-15 09:04:30,post,5,3,
+S0044,PartnerA,2023-11-22 19:45:00,2023-11-22 19:57:26,post,4,5,The dialogue exercises were eye-opening.
+S0078,PartnerA,2023-08-29 16:01:00,2023-08-29 16:15:42,pre,3,4,I wish we had more time for small-group work.
+S0013,PartnerA,2023-11-23 17:10:00,2023-11-23 17:24:55,post,5,3,The dialogue exercises were eye-opening.
+S0009,PartnerA,2023-08-20 13:37:00,2023-08-20 13:41:08,pre,4,3,I learned a lot about perspective-taking.
+S0040,PartnerA,2023-11-16 19:59:00,2023-11-16 20:06:04,post,2,3,
+S0090,PartnerA,2023-08-23 21:19:00,2023-08-23 21:32:34,pre,2,4,The dialogue exercises were eye-opening.
+S0150,PartnerA,2023-08-26 12:20:00,2023-08-26 12:25:24,pre,3,4,
+S0123,PartnerA,2023-11-18 20:21:00,2023-11-18 20:26:21,post,4,5,
+S0163,PartnerA,2023-08-25 09:25:00,2023-08-25 09:32:59,pre,3,3,I learned a lot about perspective-taking.
+S0059,PartnerA,2023-11-24 21:49:00,2023-11-24 21:52:54,post,3,4,
+S0034,PartnerA,2023-11-25 09:56:00,2023-11-25 10:01:07,post,4,3,I wish we had more time for small-group work.
+S0113,PartnerA,2023-09-01 19:28:00,2023-09-01 19:33:54,pre,4,4,This helped me feel more connected to peers.
+S0142,PartnerA,2023-11-25 10:53:00,2023-11-25 11:07:59,post,5,1,The dialogue exercises were eye-opening.
+S0042,PartnerA,2023-11-27 11:16:00,2023-11-27 11:19:08,post,3,2,
+S0027,PartnerA,2023-11-24 16:54:00,2023-11-24 17:03:46,post,3,5,The dialogue exercises were eye-opening.
+S0129,PartnerA,2023-09-01 16:09:00,2023-09-01 16:17:59,pre,2,5,I wish we had more time for small-group work.
+S0125,PartnerA,2023-11-17 15:13:00,2023-11-17 15:19:20,post,3,4,I wish we had more time for small-group work.
+S0006,PartnerA,2023-11-17 12:36:00,2023-11-17 12:37:34,post,3,4,
+S0149,PartnerA,2023-08-31 11:35:00,2023-08-31 11:38:50,pre,2,3,This helped me feel more connected to peers.
+S0199,PartnerA,2023-08-27 17:16:00,2023-08-27 17:18:40,pre,5,3,This helped me feel more connected to peers.
+S0018,PartnerA,2023-08-22 08:27:00,2023-08-22 08:32:53,pre,2,5,
+S0120,PartnerA,2023-11-28 16:03:00,2023-11-28 16:05:37,post,3,4,
+S0134,PartnerA,2023-11-18 17:26:00,2023-11-18 17:34:39,post,4,4,
+S0097,PartnerA,2023-11-15 14:32:00,2023-11-15 14:35:55,post,4,5,I learned a lot about perspective-taking.
+S0174,PartnerA,2023-08-22 11:16:00,2023-08-22 11:25:38,pre,3,3,
+S0162,PartnerA,2023-08-30 20:49:00,2023-08-30 20:59:12,pre,4,4,The dialogue exercises were eye-opening.
+S0024,PartnerA,2023-08-29 21:12:32,2023-08-29 21:12:32,pre,4,5,I learned a lot about perspective-taking.
+S0120,PartnerA,2023-08-22 16:58:00,2023-08-22 17:05:03,pre,3,3,I wish we had more time for small-group work.
+S0113,PartnerA,2023-11-18 13:49:00,2023-11-18 14:01:15,post,5,4,The dialogue exercises were eye-opening.
+S0167,PartnerA,2023-11-20 09:55:00,2023-11-20 10:08:58,post,2,4,I wish we had more time for small-group work.
+S0126,PartnerA,2023-11-20 21:40:00,2023-11-20 21:54:26,post,5,4,
+S0097,PartnerA,2023-09-01 11:29:00,2023-09-01 11:33:32,pre,2,4,
+S0082,PartnerA,2023-08-31 13:13:00,2023-08-31 13:22:04,pre,2,3,I wish we had more time for small-group work.
+S0190,PartnerA,2023-08-20 16:05:00,2023-08-20 16:16:48,pre,4,4,
+S0049,PartnerA,2023-08-30 14:10:00,2023-08-30 14:12:53,pre,5,4,I wish we had more time for small-group work.
+S0027,PartnerA,2023-11-24 16:54:00,2023-11-24 17:03:46,post,3,5,The dialogue exercises were eye-opening.
+S0040,PartnerA,2023-08-26 17:40:00,2023-08-26 17:45:13,pre,4,3,I learned a lot about perspective-taking.
+S0011,PartnerA,2023-11-22 12:07:00,2023-11-22 12:10:36,post,5,4,I learned a lot about perspective-taking.
+S0062,PartnerA,2023-08-24 08:11:00,2023-08-24 08:24:20,pre,3,3,
+S0174,PartnerA,2023-11-22 09:39:00,2023-11-22 09:53:32,post,4,3,This helped me feel more connected to peers.
+S0042,PartnerA,2023-08-29 09:45:00,2023-08-29 09:58:47,pre,3,3,
+S0093,PartnerA,2023-08-28 12:46:00,2023-08-28 12:49:45,pre,3,4,I learned a lot about perspective-taking.
+S0035,PartnerA,2023-08-20 20:58:00,2023-08-20 21:07:39,pre,3,2,I learned a lot about perspective-taking.
+S0095,PartnerA,2023-11-24 12:37:00,2023-11-24 12:46:18,post,2,3,The dialogue exercises were eye-opening.
+S0165,PartnerA,2023-08-27 17:59:00,2023-08-27 18:05:51,pre,3,4,
+S0017,PartnerA,2023-08-31 09:06:00,2023-08-31 09:13:18,pre,3,4,
+S0108,PartnerA,2023-11-15 09:24:00,2023-11-15 09:38:09,post,4,4,
+S0114,PartnerA,2023-08-31 21:25:00,2023-08-31 21:31:06,pre,4,1,This helped me feel more connected to peers.
+S9901,PartnerA,2023-08-22 14:57:00,2023-08-22 15:00:12,pre,3,4,I enjoyed the program.
+S0001,PartnerA,2023-08-27 18:44:00,2023-08-27 18:57:50,pre,2,2,I learned a lot about perspective-taking.
+S0012,PartnerA,2023-09-02 12:20:00,2023-09-02 12:27:15,pre,2,3,I learned a lot about perspective-taking.
+S0134,PartnerA,2023-08-30 10:10:00,2023-08-30 10:20:46,pre,3,2,The dialogue exercises were eye-opening.
+S0162,PartnerA,2023-11-26 19:05:00,2023-11-26 19:17:50,post,4,4,I learned a lot about perspective-taking.
+S0084,PartnerA,2023-09-02 11:33:00,2023-09-02 11:43:53,pre,2,3,
+S0083,PartnerA,2023-08-20 20:20:00,2023-08-20 20:25:31,pre,3,4,The dialogue exercises were eye-opening.
+S0051,PartnerA,2023-09-01 13:14:00,2023-09-01 13:21:22,pre,5,3,This helped me feel more connected to peers.
+S0117,PartnerA,2023-11-17 08:05:00,2023-11-17 08:10:40,post,5,4,The dialogue exercises were eye-opening.
+S0122,PartnerA,2023-08-28 20:08:00,2023-08-28 20:14:53,pre,5,2,
+S0023,PartnerA,2023-08-31 14:52:00,2023-08-31 14:59:11,pre,4,2,I wish we had more time for small-group work.
+S0142,PartnerA,2023-08-21 13:28:00,2023-08-21 13:41:35,pre,3,4,
+S0095,PartnerA,2023-08-23 17:23:00,2023-08-23 17:28:16,pre,2,3,
+S0084,PartnerA,2023-11-26 09:39:00,2023-11-26 09:44:16,post,3,5,
+S0186,PartnerA,2023-08-26 08:08:00,2023-08-26 08:12:13,pre,4,3,
+S0075,PartnerA,2023-09-02 11:32:00,2023-09-02 11:44:32,pre,3,3,The dialogue exercises were eye-opening.
+S0094,PartnerA,2023-08-30 09:40:00,2023-08-30 09:43:21,pre,4,3,The dialogue exercises were eye-opening.
+S0114,PartnerA,2023-11-26 15:25:00,2023-11-26 15:25:08,post,3,3,I learned a lot about perspective-taking.
+S0185,PartnerA,2023-08-20 10:25:00,2023-08-20 10:30:55,pre,4,2,I learned a lot about perspective-taking.
+S0148,PartnerA,2023-11-16 13:37:00,2023-11-16 13:41:58,post,5,5,I wish we had more time for small-group work.
+S0197,PartnerA,2023-08-23 09:08:00,2023-08-23 09:13:23,pre,3,3,The dialogue exercises were eye-opening.
+S0012,PartnerA,2023-11-28 11:53:00,2023-11-28 11:54:30,post,5,4,The dialogue exercises were eye-opening.
+S0090,PartnerA,2023-11-26 10:45:00,2023-11-26 10:48:22,post,4,2,
+S0039,PartnerA,2023-11-27 20:11:00,2023-11-27 20:17:24,post,4,4,This helped me feel more connected to peers.
+S0144,PartnerA,2023-09-02 13:10:00,2023-09-02 13:17:24,pre,3,3,
+S0084,PartnerA,2023-09-02 11:33:00,2023-09-02 11:43:53,pre,2,3,
+S0199,PartnerA,2023-11-27 12:25:00,2023-11-27 12:31:34,post,0,5,The dialogue exercises were eye-opening.
+S0024,PartnerA,2023-08-29 21:01:00,2023-08-29 21:08:32,pre,3,5,I learned a lot about perspective-taking.
+S0066,PartnerA,2023-11-25 14:30:00,2023-11-25 14:33:17,post,2,5,This helped me feel more connected to peers.
+S0029,PartnerA,2023-08-26 10:17:00,2023-08-26 10:25:52,pre,4,4,I learned a lot about perspective-taking.
+S0181,PartnerA,2023-11-18 20:23:00,2023-11-18 20:30:07,post,3,5,This helped me feel more connected to peers.
+S0018,PartnerA,2023-11-16 10:31:00,2023-11-16 10:31:08,post,3,4,
+S0052,PartnerA,2023-08-21 09:35:00,2023-08-21 09:49:23,pre,1,2,This helped me feel more connected to peers.
+S0186,PartnerA,2023-11-17 08:09:00,2023-11-17 08:17:29,post,5,4,
+S0179,PartnerA,2023-08-27 19:32:00,2023-08-27 19:35:22,pre,2,4,I learned a lot about perspective-taking.
+S0167,PartnerA,2023-08-24 17:00:00,2023-08-24 17:08:10,pre,4,4,I learned a lot about perspective-taking.

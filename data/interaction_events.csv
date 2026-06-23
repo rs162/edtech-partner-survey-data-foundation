@@ -1,0 +1,818 @@
+event_id,student_id,partner_id,session_id,event_type,event_timestamp,metadata
+E10000,S0000,PartnerA,SES015,reflection_submit,2023-09-29 00:00:00,
+E10001,S0000,PartnerA,SES043,dialogue_join,2023-10-02 00:00:00,
+E10002,S0000,PartnerA,SES025,lesson_complete,2023-10-24 00:00:00,"{""score"": 65}"
+E10003,S0000,PartnerA,SES001,video_play,2023-10-11 00:00:00,"{""duration_sec"": 82}"
+E10004,S0000,PartnerA,SES044,reflection_submit,2023-10-21 00:00:00,
+E10005,S0001,PartnerA,SES007,lesson_start,2023-09-29 00:00:00,
+E10006,S0001,PartnerA,SES019,reflection_submit,2023-11-05 00:00:00,
+E10007,S0001,PartnerA,SES045,lesson_start,2023-09-15 00:00:00,
+E10008,S0001,PartnerA,SES011,reflection_submit,2023-10-23 00:00:00,
+E10009,S0001,PartnerA,SES040,lesson_start,2023-09-18 00:00:00,
+E10010,S0001,PartnerA,SES048,reflection_submit,2023-11-05 00:00:00,
+E10011,S0002,PartnerA,SES040,video_play,2023-10-06 00:00:00,"{""duration_sec"": 194}"
+E10012,S0002,PartnerA,SES049,video_play,2023-10-15 00:00:00,"{""duration_sec"": 125}"
+E10013,S0002,PartnerA,SES013,lesson_complete,2023-10-15 00:00:00,"{""score"": 51}"
+E10014,S0002,PartnerA,SES042,video_play,2023-11-06 00:00:00,"{""duration_sec"": 230}"
+E10015,S0002,PartnerA,SES003,reflection_submit,2023-10-24 00:00:00,
+E10016,S0002,PartnerA,SES004,reflection_submit,2023-10-30 00:00:00,
+E10017,S0003,PartnerB,SES031,reflection_submit,2023-09-30 00:00:00,
+E10018,S0003,PartnerB,SES002,reflection_submit,2023-11-01 00:00:00,
+E10019,S0003,PartnerB,SES009,lesson_start,2023-10-01 00:00:00,
+E10020,S0003,PartnerB,SES015,video_play,2023-10-18 00:00:00,"{""duration_sec"": 491}"
+E10021,S0004,PartnerB,SES009,video_play,2023-10-28 00:00:00,"{""duration_sec"": 145}"
+E10022,S0005,PartnerB,SES039,dialogue_join,2023-10-28 00:00:00,
+E10023,S0005,PartnerB,SES037,video_play,2023-11-03 00:00:00,"{""duration_sec"": 364}"
+E10024,S0005,PartnerB,SES007,video_play,2023-09-09 00:00:00,"{""duration_sec"": 550}"
+E10025,S0005,PartnerB,SES017,video_play,2023-09-16 00:00:00,"{""duration_sec"": 451}"
+E10026,S0005,PartnerB,SES021,reflection_submit,2023-11-03 00:00:00,
+E10027,S0006,PartnerA,SES037,video_play,2023-11-01 00:00:00,"{""duration_sec"": 499}"
+E10028,S0006,PartnerA,SES042,lesson_complete,2023-10-31 00:00:00,"{""score"": 61}"
+E10029,S0007,PartnerB,SES016,reflection_submit,2023-09-08 00:00:00,
+E10030,S0007,PartnerB,SES040,reflection_submit,2023-10-29 00:00:00,
+E10031,S0007,PartnerB,SES030,lesson_complete,2023-09-10 00:00:00,"{""score"": 79}"
+E10032,S0007,PartnerB,SES015,video_play,2023-09-02 00:00:00,"{""duration_sec"": 404}"
+E10033,S0007,PartnerB,SES026,lesson_complete,2023-09-23 00:00:00,"{""score"": 61}"
+E10034,S0008,PartnerA,SES038,lesson_start,2023-11-06 00:00:00,
+E10035,S0008,PartnerA,SES030,reflection_submit,2023-10-31 00:00:00,
+E10036,S0009,PartnerA,SES032,dialogue_join,2023-09-28 00:00:00,
+E10037,S0010,PartnerB,SES013,lesson_complete,2023-09-27 00:00:00,"{""score"": 95}"
+E10038,S0010,PartnerB,SES039,video_play,2023-10-23 00:00:00,"{""duration_sec"": 595}"
+E10039,S0010,PartnerB,SES023,video_play,2023-11-09 00:00:00,"{""duration_sec"": 489}"
+E10040,S0010,PartnerB,SES012,video_play,2023-10-03 00:00:00,"{""duration_sec"": 349}"
+E10041,S0010,PartnerB,SES001,video_play,2023-10-07 00:00:00,"{""duration_sec"": 401}"
+E10042,S0011,PartnerA,SES021,dialogue_join,2023-10-05 00:00:00,
+E10043,S0011,PartnerA,SES046,dialogue_join,2023-10-20 00:00:00,
+E10044,S0011,PartnerA,SES046,lesson_start,2023-10-29 00:00:00,
+E10045,S0011,PartnerA,SES007,dialogue_join,2023-09-18 00:00:00,
+E10046,S0011,PartnerA,SES011,lesson_complete,2023-10-24 00:00:00,"{""score"": 57}"
+E10047,S0011,PartnerA,SES038,dialogue_join,2023-10-18 00:00:00,
+E10048,S0011,PartnerA,SES020,reflection_submit,2023-09-12 00:00:00,
+E10049,S0012,PartnerA,SES031,dialogue_join,2023-10-31 00:00:00,
+E10050,S0012,PartnerA,SES045,lesson_complete,2023-10-05 00:00:00,"{""score"": 52}"
+E10051,S0012,PartnerA,SES013,dialogue_join,2023-10-05 00:00:00,
+E10052,S0013,PartnerA,SES021,reflection_submit,2023-10-24 00:00:00,
+E10053,S0013,PartnerA,SES030,reflection_submit,2023-10-18 00:00:00,
+E10054,S0013,PartnerA,SES035,dialogue_join,2023-10-08 00:00:00,
+E10055,S0013,PartnerA,SES032,lesson_complete,2023-10-02 00:00:00,"{""score"": 98}"
+E10056,S0014,PartnerB,SES035,reflection_submit,2023-09-03 00:00:00,
+E10057,S0014,PartnerB,SES021,dialogue_join,2023-09-10 00:00:00,
+E10058,S0014,PartnerB,SES025,reflection_submit,2023-11-07 00:00:00,
+E10059,S0014,PartnerB,SES029,dialogue_join,2023-09-19 00:00:00,
+E10060,S0014,PartnerB,SES002,reflection_submit,2023-11-13 00:00:00,
+E10061,S0014,PartnerB,SES043,dialogue_join,2023-09-25 00:00:00,
+E10062,S0014,PartnerB,SES019,video_play,2023-09-24 00:00:00,"{""duration_sec"": 57}"
+E10063,S0015,PartnerB,SES005,lesson_complete,2023-11-02 00:00:00,"{""score"": 77}"
+E10064,S0015,PartnerB,SES005,reflection_submit,2023-10-21 00:00:00,
+E10065,S0015,PartnerB,SES012,dialogue_join,2023-10-20 00:00:00,
+E10066,S0016,PartnerB,SES042,lesson_start,2023-10-08 00:00:00,
+E10067,S0016,PartnerB,SES014,lesson_start,2023-11-14 00:00:00,
+E10068,S0016,PartnerB,SES018,reflection_submit,2023-09-27 00:00:00,
+E10069,S0016,PartnerB,SES011,lesson_complete,2023-09-21 00:00:00,"{""score"": 72}"
+E10070,S0017,PartnerA,SES023,dialogue_join,2023-10-11 00:00:00,
+E10071,S0017,PartnerA,SES025,reflection_submit,2023-10-24 00:00:00,
+E10072,S0017,PartnerA,SES019,lesson_complete,2023-11-04 00:00:00,"{""score"": 71}"
+E10073,S0017,PartnerA,SES015,video_play,2023-09-22 00:00:00,"{""duration_sec"": 202}"
+E10074,S0018,PartnerA,SES017,lesson_complete,2023-10-16 00:00:00,"{""score"": 96}"
+E10075,S0018,PartnerA,SES048,lesson_complete,2023-10-03 00:00:00,"{""score"": 69}"
+E10076,S0018,PartnerA,SES043,reflection_submit,2023-09-12 00:00:00,
+E10077,S0018,PartnerA,SES038,video_play,2023-09-03 00:00:00,"{""duration_sec"": 231}"
+E10078,S0018,PartnerA,SES026,video_play,2023-09-13 00:00:00,"{""duration_sec"": 193}"
+E10079,S0018,PartnerA,SES002,dialogue_join,2023-10-07 00:00:00,
+E10080,S0019,PartnerB,SES026,lesson_complete,2023-11-14 00:00:00,"{""score"": 85}"
+E10081,S0020,PartnerB,SES022,reflection_submit,2023-09-20 00:00:00,
+E10082,S0020,PartnerB,SES040,dialogue_join,2023-09-30 00:00:00,
+E10083,S0020,PartnerB,SES020,lesson_start,2023-10-25 00:00:00,
+E10084,S0020,PartnerB,SES007,reflection_submit,2023-10-15 00:00:00,
+E10085,S0021,PartnerA,SES023,reflection_submit,2023-11-12 00:00:00,
+E10086,S0021,PartnerA,SES020,reflection_submit,2023-10-07 00:00:00,
+E10087,S0021,PartnerA,SES047,lesson_complete,2023-10-27 00:00:00,"{""score"": 66}"
+E10088,S0022,PartnerB,SES030,dialogue_join,2023-09-20 00:00:00,
+E10089,S0022,PartnerB,SES012,video_play,2023-10-19 00:00:00,"{""duration_sec"": 318}"
+E10090,S0022,PartnerB,SES042,lesson_start,2023-09-29 00:00:00,
+E10091,S0022,PartnerB,SES046,reflection_submit,2023-09-11 00:00:00,
+E10092,S0022,PartnerB,SES007,lesson_complete,2023-10-28 00:00:00,"{""score"": 99}"
+E10093,S0022,PartnerB,SES038,lesson_complete,2023-09-10 00:00:00,"{""score"": 69}"
+E10094,S0022,PartnerB,SES020,video_play,2023-09-03 00:00:00,"{""duration_sec"": 494}"
+E10095,S0023,PartnerA,SES040,lesson_start,2023-11-11 00:00:00,
+E10096,S0023,PartnerA,SES023,video_play,2023-09-11 00:00:00,"{""duration_sec"": 65}"
+E10097,S0023,PartnerA,SES030,dialogue_join,2023-10-26 00:00:00,
+E10098,S0023,PartnerA,SES028,video_play,2023-10-19 00:00:00,"{""duration_sec"": 48}"
+E10099,S0023,PartnerA,SES032,video_play,2023-10-06 00:00:00,"{""duration_sec"": 22}"
+E10100,S0024,PartnerA,SES004,lesson_complete,2023-11-03 00:00:00,"{""score"": 71}"
+E10101,S0024,PartnerA,SES011,lesson_complete,2023-10-16 00:00:00,"{""score"": 80}"
+E10102,S0024,PartnerA,SES038,dialogue_join,2023-09-10 00:00:00,
+E10103,S0024,PartnerA,SES044,reflection_submit,2023-10-30 00:00:00,
+E10104,S0024,PartnerA,SES001,lesson_start,2023-10-27 00:00:00,
+E10105,S0025,PartnerB,SES009,lesson_complete,2023-09-22 00:00:00,"{""score"": 83}"
+E10106,S0025,PartnerB,SES025,dialogue_join,2023-10-18 00:00:00,
+E10107,S0025,PartnerB,SES012,lesson_complete,2023-10-10 00:00:00,"{""score"": 100}"
+E10108,S0025,PartnerB,SES015,lesson_start,2023-09-15 00:00:00,
+E10109,S0025,PartnerB,SES017,dialogue_join,2023-10-02 00:00:00,
+E10110,S0025,PartnerB,SES040,lesson_start,2023-09-20 00:00:00,
+E10111,S0025,PartnerB,SES021,lesson_complete,2023-11-12 00:00:00,"{""score"": 76}"
+E10112,S0026,PartnerB,SES038,video_play,2023-10-30 00:00:00,"{""duration_sec"": 437}"
+E10113,S0026,PartnerB,SES035,lesson_start,2023-10-18 00:00:00,
+E10114,S0026,PartnerB,SES039,lesson_complete,2023-11-07 00:00:00,"{""score"": 65}"
+E10115,S0026,PartnerB,SES025,reflection_submit,2023-11-01 00:00:00,
+E10116,S0026,PartnerB,SES045,dialogue_join,2023-09-06 00:00:00,
+E10117,S0026,PartnerB,SES013,reflection_submit,2023-10-30 00:00:00,
+E10118,S0026,PartnerB,SES031,lesson_complete,2023-10-24 00:00:00,"{""score"": 63}"
+E10119,S0027,PartnerA,SES008,video_play,2023-09-25 00:00:00,"{""duration_sec"": 560}"
+E10120,S0027,PartnerA,SES032,dialogue_join,2023-10-29 00:00:00,
+E10121,S0027,PartnerA,SES030,video_play,2023-11-06 00:00:00,"{""duration_sec"": 62}"
+E10122,S0027,PartnerA,SES034,video_play,2023-09-22 00:00:00,"{""duration_sec"": 246}"
+E10123,S0028,PartnerB,SES006,lesson_start,2023-10-02 00:00:00,
+E10124,S0028,PartnerB,SES010,reflection_submit,2023-09-03 00:00:00,
+E10125,S0028,PartnerB,SES012,reflection_submit,2023-10-19 00:00:00,
+E10126,S0028,PartnerB,SES031,reflection_submit,2023-11-08 00:00:00,
+E10127,S0028,PartnerB,SES041,video_play,2023-10-01 00:00:00,"{""duration_sec"": 354}"
+E10128,S0029,PartnerA,SES020,dialogue_join,2023-09-22 00:00:00,
+E10129,S0029,PartnerA,SES045,video_play,2023-10-12 00:00:00,"{""duration_sec"": 534}"
+E10130,S0029,PartnerA,SES020,lesson_complete,2023-10-24 00:00:00,"{""score"": 98}"
+E10131,S0029,PartnerA,SES001,video_play,2023-09-15 00:00:00,"{""duration_sec"": 490}"
+E10132,S0029,PartnerA,SES017,dialogue_join,2023-09-24 00:00:00,
+E10133,S0029,PartnerA,SES027,lesson_complete,2023-09-23 00:00:00,"{""score"": 57}"
+E10134,S0030,PartnerA,SES026,reflection_submit,2023-10-29 00:00:00,
+E10135,S0030,PartnerA,SES039,dialogue_join,2023-09-28 00:00:00,
+E10136,S0030,PartnerA,SES016,lesson_start,2023-09-02 00:00:00,
+E10137,S0030,PartnerA,SES030,lesson_complete,2023-09-13 00:00:00,"{""score"": 66}"
+E10138,S0030,PartnerA,SES046,lesson_complete,2023-09-13 00:00:00,"{""score"": 78}"
+E10139,S0030,PartnerA,SES021,reflection_submit,2023-09-21 00:00:00,
+E10140,S0031,PartnerA,SES040,lesson_start,2023-09-15 00:00:00,
+E10141,S0031,PartnerA,SES010,lesson_start,2023-10-23 00:00:00,
+E10142,S0031,PartnerA,SES009,video_play,2023-10-24 00:00:00,"{""duration_sec"": 426}"
+E10143,S0031,PartnerA,SES044,lesson_start,2023-11-14 00:00:00,
+E10144,S0031,PartnerA,SES009,lesson_complete,2023-10-02 00:00:00,"{""score"": 65}"
+E10145,S0031,PartnerA,SES045,video_play,2023-10-27 00:00:00,"{""duration_sec"": 490}"
+E10146,S0031,PartnerA,SES012,reflection_submit,2023-11-04 00:00:00,
+E10147,S0032,PartnerB,SES011,lesson_complete,2023-10-13 00:00:00,"{""score"": 100}"
+E10148,S0032,PartnerB,SES033,lesson_start,2023-10-02 00:00:00,
+E10149,S0032,PartnerB,SES021,lesson_complete,2023-10-10 00:00:00,"{""score"": 78}"
+E10150,S0033,PartnerA,SES037,lesson_complete,2023-11-03 00:00:00,"{""score"": 87}"
+E10151,S0033,PartnerA,SES008,reflection_submit,2023-10-19 00:00:00,
+E10152,S0033,PartnerA,SES011,reflection_submit,2023-10-19 00:00:00,
+E10153,S0033,PartnerA,SES002,dialogue_join,2023-11-02 00:00:00,
+E10154,S0033,PartnerA,SES039,reflection_submit,2023-09-28 00:00:00,
+E10155,S0033,PartnerA,SES017,reflection_submit,2023-09-06 00:00:00,
+E10156,S0033,PartnerA,SES038,reflection_submit,2023-09-28 00:00:00,
+E10157,S0034,PartnerA,SES004,dialogue_join,2023-10-19 00:00:00,
+E10158,S0034,PartnerA,SES036,reflection_submit,2023-10-28 00:00:00,
+E10159,S0035,PartnerA,SES032,video_play,2023-10-30 00:00:00,"{""duration_sec"": 579}"
+E10160,S0035,PartnerA,SES035,reflection_submit,2023-10-26 00:00:00,
+E10161,S0035,PartnerA,SES028,reflection_submit,2023-09-01 00:00:00,
+E10162,S0035,PartnerA,SES048,lesson_complete,2023-10-10 00:00:00,"{""score"": 67}"
+E10163,S0035,PartnerA,SES012,lesson_start,2023-11-11 00:00:00,
+E10164,S0036,PartnerB,SES027,video_play,2023-09-09 00:00:00,"{""duration_sec"": 501}"
+E10165,S0036,PartnerB,SES024,video_play,2023-09-14 00:00:00,"{""duration_sec"": 296}"
+E10166,S0037,PartnerA,SES034,lesson_start,2023-11-06 00:00:00,
+E10167,S0037,PartnerA,SES042,lesson_complete,2023-11-12 00:00:00,"{""score"": 73}"
+E10168,S0037,PartnerA,SES040,lesson_complete,2023-09-10 00:00:00,"{""score"": 69}"
+E10169,S0037,PartnerA,SES003,reflection_submit,2023-09-24 00:00:00,
+E10170,S0037,PartnerA,SES003,dialogue_join,2023-10-28 00:00:00,
+E10171,S0038,PartnerA,SES015,lesson_start,2023-10-05 00:00:00,
+E10172,S0038,PartnerA,SES044,video_play,2023-09-26 00:00:00,"{""duration_sec"": 114}"
+E10173,S0038,PartnerA,SES031,lesson_complete,2023-10-20 00:00:00,"{""score"": 72}"
+E10174,S0039,PartnerA,SES004,video_play,2023-10-18 00:00:00,"{""duration_sec"": 480}"
+E10175,S0039,PartnerA,SES025,lesson_start,2023-11-05 00:00:00,
+E10176,S0039,PartnerA,SES021,reflection_submit,2023-10-19 00:00:00,
+E10177,S0039,PartnerA,SES033,video_play,2023-10-08 00:00:00,"{""duration_sec"": 478}"
+E10178,S0040,PartnerA,SES015,lesson_complete,2023-10-16 00:00:00,"{""score"": 95}"
+E10179,S0040,PartnerA,SES021,lesson_start,2023-09-05 00:00:00,
+E10180,S0040,PartnerA,SES043,lesson_start,2023-10-17 00:00:00,
+E10181,S0040,PartnerA,SES018,video_play,2023-09-21 00:00:00,"{""duration_sec"": 100}"
+E10182,S0040,PartnerA,SES003,video_play,2023-10-10 00:00:00,"{""duration_sec"": 201}"
+E10183,S0041,PartnerB,SES049,lesson_complete,2023-11-11 00:00:00,"{""score"": 74}"
+E10184,S0041,PartnerB,SES005,reflection_submit,2023-10-23 00:00:00,
+E10185,S0042,PartnerA,SES045,dialogue_join,2023-11-08 00:00:00,
+E10186,S0042,PartnerA,SES048,lesson_start,2023-09-02 00:00:00,
+E10187,S0042,PartnerA,SES040,lesson_start,2023-10-30 00:00:00,
+E10188,S0042,PartnerA,SES030,reflection_submit,2023-09-11 00:00:00,
+E10189,S0042,PartnerA,SES012,video_play,2023-10-09 00:00:00,"{""duration_sec"": 117}"
+E10190,S0042,PartnerA,SES008,lesson_complete,2023-11-02 00:00:00,"{""score"": 62}"
+E10191,S0042,PartnerA,SES028,dialogue_join,2023-11-12 00:00:00,
+E10192,S0043,PartnerB,SES047,lesson_complete,2023-10-04 00:00:00,"{""score"": 70}"
+E10193,S0043,PartnerB,SES001,video_play,2023-10-25 00:00:00,"{""duration_sec"": 597}"
+E10194,S0043,PartnerB,SES047,dialogue_join,2023-09-01 00:00:00,
+E10195,S0043,PartnerB,SES042,lesson_start,2023-10-24 00:00:00,
+E10196,S0043,PartnerB,SES015,lesson_complete,2023-09-22 00:00:00,"{""score"": 70}"
+E10197,S0043,PartnerB,SES045,reflection_submit,2023-09-08 00:00:00,
+E10198,S0043,PartnerB,SES017,lesson_start,2023-09-13 00:00:00,
+E10199,S0044,PartnerA,SES048,lesson_start,2023-10-15 00:00:00,
+E10200,S0045,PartnerB,SES046,reflection_submit,2023-09-14 00:00:00,
+E10201,S0045,PartnerB,SES015,dialogue_join,2023-10-24 00:00:00,
+E10202,S0045,PartnerB,SES027,dialogue_join,2023-09-13 00:00:00,
+E10203,S0045,PartnerB,SES031,lesson_start,2023-10-05 00:00:00,
+E10204,S0045,PartnerB,SES005,video_play,2023-10-28 00:00:00,"{""duration_sec"": 15}"
+E10205,S0045,PartnerB,SES023,lesson_start,2023-10-04 00:00:00,
+E10206,S0046,PartnerB,SES026,dialogue_join,2023-09-20 00:00:00,
+E10207,S0046,PartnerB,SES018,reflection_submit,2023-09-04 00:00:00,
+E10208,S0047,PartnerA,SES014,lesson_start,2023-09-13 00:00:00,
+E10209,S0048,PartnerB,SES019,video_play,2023-11-02 00:00:00,"{""duration_sec"": 408}"
+E10210,S0048,PartnerB,SES047,reflection_submit,2023-10-05 00:00:00,
+E10211,S0048,PartnerB,SES035,lesson_start,2023-09-19 00:00:00,
+E10212,S0048,PartnerB,SES048,video_play,2023-10-14 00:00:00,"{""duration_sec"": 131}"
+E10213,S0048,PartnerB,SES017,dialogue_join,2023-11-10 00:00:00,
+E10214,S0048,PartnerB,SES001,reflection_submit,2023-10-02 00:00:00,
+E10215,S0048,PartnerB,SES006,video_play,2023-10-28 00:00:00,"{""duration_sec"": 150}"
+E10216,S0049,PartnerA,SES048,dialogue_join,2023-11-07 00:00:00,
+E10217,S0049,PartnerA,SES016,reflection_submit,2023-09-16 00:00:00,
+E10218,S0049,PartnerA,SES026,video_play,2023-09-28 00:00:00,"{""duration_sec"": 438}"
+E10219,S0049,PartnerA,SES002,dialogue_join,2023-10-01 00:00:00,
+E10220,S0049,PartnerA,SES008,reflection_submit,2023-09-24 00:00:00,
+E10221,S0049,PartnerA,SES031,reflection_submit,2023-11-12 00:00:00,
+E10222,S0050,PartnerB,SES002,dialogue_join,2023-09-08 00:00:00,
+E10223,S0050,PartnerB,SES039,video_play,2023-10-27 00:00:00,"{""duration_sec"": 380}"
+E10224,S0050,PartnerB,SES030,reflection_submit,2023-11-13 00:00:00,
+E10225,S0050,PartnerB,SES005,lesson_complete,2023-10-09 00:00:00,"{""score"": 99}"
+E10226,S0050,PartnerB,SES045,video_play,2023-09-23 00:00:00,"{""duration_sec"": 180}"
+E10227,S0050,PartnerB,SES030,dialogue_join,2023-09-06 00:00:00,
+E10228,S0050,PartnerB,SES044,lesson_complete,2023-09-04 00:00:00,"{""score"": 95}"
+E10229,S0051,PartnerA,SES015,lesson_complete,2023-10-10 00:00:00,"{""score"": 67}"
+E10230,S0051,PartnerA,SES009,lesson_complete,2023-11-13 00:00:00,"{""score"": 81}"
+E10231,S0051,PartnerA,SES048,video_play,2023-11-02 00:00:00,"{""duration_sec"": 15}"
+E10232,S0051,PartnerA,SES042,reflection_submit,2023-09-11 00:00:00,
+E10233,S0051,PartnerA,SES017,reflection_submit,2023-09-04 00:00:00,
+E10234,S0052,PartnerA,SES022,video_play,2023-11-09 00:00:00,"{""duration_sec"": 425}"
+E10235,S0052,PartnerA,SES022,reflection_submit,2023-11-04 00:00:00,
+E10236,S0052,PartnerA,SES048,video_play,2023-09-11 00:00:00,"{""duration_sec"": 159}"
+E10237,S0052,PartnerA,SES042,dialogue_join,2023-09-03 00:00:00,
+E10238,S0052,PartnerA,SES012,lesson_start,2023-09-14 00:00:00,
+E10239,S0052,PartnerA,SES018,lesson_start,2023-11-12 00:00:00,
+E10240,S0052,PartnerA,SES047,lesson_complete,2023-11-08 00:00:00,"{""score"": 68}"
+E10241,S0053,PartnerA,SES023,video_play,2023-09-30 00:00:00,"{""duration_sec"": 265}"
+E10242,S0053,PartnerA,SES028,lesson_start,2023-09-25 00:00:00,
+E10243,S0053,PartnerA,SES042,lesson_complete,2023-10-28 00:00:00,"{""score"": 63}"
+E10244,S0053,PartnerA,SES025,lesson_start,2023-10-18 00:00:00,
+E10245,S0053,PartnerA,SES035,lesson_complete,2023-11-14 00:00:00,"{""score"": 59}"
+E10246,S0053,PartnerA,SES021,reflection_submit,2023-09-21 00:00:00,
+E10247,S0053,PartnerA,SES007,dialogue_join,2023-11-03 00:00:00,
+E10248,S0054,PartnerB,SES042,lesson_complete,2023-10-24 00:00:00,"{""score"": 61}"
+E10249,S0054,PartnerB,SES011,reflection_submit,2023-09-16 00:00:00,
+E10250,S0054,PartnerB,SES018,lesson_start,2023-10-29 00:00:00,
+E10251,S0054,PartnerB,SES006,lesson_complete,2023-10-27 00:00:00,"{""score"": 65}"
+E10252,S0054,PartnerB,SES047,video_play,2023-10-18 00:00:00,"{""duration_sec"": 500}"
+E10253,S0054,PartnerB,SES013,lesson_complete,2023-09-04 00:00:00,"{""score"": 61}"
+E10254,S0055,PartnerB,SES027,lesson_complete,2023-09-27 00:00:00,"{""score"": 75}"
+E10255,S0055,PartnerB,SES013,video_play,2023-10-13 00:00:00,"{""duration_sec"": 21}"
+E10256,S0055,PartnerB,SES017,lesson_start,2023-10-06 00:00:00,
+E10257,S0055,PartnerB,SES008,dialogue_join,2023-11-08 00:00:00,
+E10258,S0055,PartnerB,SES036,lesson_complete,2023-09-28 00:00:00,"{""score"": 65}"
+E10259,S0055,PartnerB,SES047,dialogue_join,2023-09-30 00:00:00,
+E10260,S0055,PartnerB,SES045,lesson_complete,2023-10-22 00:00:00,"{""score"": 56}"
+E10261,S0056,PartnerB,SES037,dialogue_join,2023-09-29 00:00:00,
+E10262,S0056,PartnerB,SES015,reflection_submit,2023-10-17 00:00:00,
+E10263,S0056,PartnerB,SES042,video_play,2023-09-21 00:00:00,"{""duration_sec"": 470}"
+E10264,S0056,PartnerB,SES027,dialogue_join,2023-10-25 00:00:00,
+E10265,S0057,PartnerB,SES020,dialogue_join,2023-09-25 00:00:00,
+E10266,S0057,PartnerB,SES016,video_play,2023-09-18 00:00:00,"{""duration_sec"": 233}"
+E10267,S0057,PartnerB,SES036,dialogue_join,2023-09-30 00:00:00,
+E10268,S0057,PartnerB,SES019,dialogue_join,2023-10-04 00:00:00,
+E10269,S0058,PartnerB,SES029,reflection_submit,2023-09-22 00:00:00,
+E10270,S0058,PartnerB,SES036,video_play,2023-11-12 00:00:00,"{""duration_sec"": 376}"
+E10271,S0058,PartnerB,SES019,reflection_submit,2023-10-08 00:00:00,
+E10272,S0058,PartnerB,SES015,video_play,2023-10-27 00:00:00,"{""duration_sec"": 248}"
+E10273,S0058,PartnerB,SES032,video_play,2023-09-04 00:00:00,"{""duration_sec"": 18}"
+E10274,S0059,PartnerA,SES020,lesson_complete,2023-11-14 00:00:00,"{""score"": 54}"
+E10275,S0059,PartnerA,SES022,dialogue_join,2023-10-28 00:00:00,
+E10276,S0060,PartnerA,SES044,dialogue_join,2023-10-04 00:00:00,
+E10277,S0060,PartnerA,SES042,dialogue_join,2023-09-09 00:00:00,
+E10278,S0060,PartnerA,SES007,lesson_complete,2023-11-07 00:00:00,"{""score"": 80}"
+E10279,S0060,PartnerA,SES042,reflection_submit,2023-10-01 00:00:00,
+E10280,S0061,PartnerB,SES021,lesson_start,2023-10-31 00:00:00,
+E10281,S0061,PartnerB,SES031,reflection_submit,2023-10-23 00:00:00,
+E10282,S0061,PartnerB,SES002,lesson_complete,2023-11-05 00:00:00,"{""score"": 59}"
+E10283,S0062,PartnerA,SES032,lesson_start,2023-09-16 00:00:00,
+E10284,S0062,PartnerA,SES031,dialogue_join,2023-09-01 00:00:00,
+E10285,S0062,PartnerA,SES021,reflection_submit,2023-09-04 00:00:00,
+E10286,S0062,PartnerA,SES012,lesson_complete,2023-11-14 00:00:00,"{""score"": 96}"
+E10287,S0063,PartnerB,SES047,lesson_start,2023-10-23 00:00:00,
+E10288,S0063,PartnerB,SES002,lesson_complete,2023-09-24 00:00:00,"{""score"": 56}"
+E10289,S0063,PartnerB,SES019,video_play,2023-09-26 00:00:00,"{""duration_sec"": 117}"
+E10290,S0063,PartnerB,SES040,reflection_submit,2023-10-20 00:00:00,
+E10291,S0064,PartnerA,SES045,reflection_submit,2023-11-06 00:00:00,
+E10292,S0064,PartnerA,SES042,video_play,2023-09-27 00:00:00,"{""duration_sec"": 204}"
+E10293,S0064,PartnerA,SES002,lesson_start,2023-10-19 00:00:00,
+E10294,S0065,PartnerB,SES020,video_play,2023-10-08 00:00:00,"{""duration_sec"": 39}"
+E10295,S0065,PartnerB,SES010,video_play,2023-10-30 00:00:00,"{""duration_sec"": 105}"
+E10296,S0066,PartnerA,SES013,lesson_start,2023-10-12 00:00:00,
+E10297,S0066,PartnerA,SES016,dialogue_join,2023-09-22 00:00:00,
+E10298,S0067,PartnerB,SES027,video_play,2023-10-11 00:00:00,"{""duration_sec"": 372}"
+E10299,S0068,PartnerB,SES002,lesson_complete,2023-09-12 00:00:00,"{""score"": 74}"
+E10300,S0068,PartnerB,SES012,lesson_start,2023-11-12 00:00:00,
+E10301,S0069,PartnerB,SES034,lesson_start,2023-10-18 00:00:00,
+E10302,S0069,PartnerB,SES002,video_play,2023-11-04 00:00:00,"{""duration_sec"": 48}"
+E10303,S0070,PartnerB,SES027,video_play,2023-09-02 00:00:00,"{""duration_sec"": 417}"
+E10304,S0070,PartnerB,SES014,lesson_start,2023-11-05 00:00:00,
+E10305,S0070,PartnerB,SES015,dialogue_join,2023-09-12 00:00:00,
+E10306,S0071,PartnerA,SES039,video_play,2023-09-24 00:00:00,"{""duration_sec"": 349}"
+E10307,S0071,PartnerA,SES010,dialogue_join,2023-09-18 00:00:00,
+E10308,S0071,PartnerA,SES022,lesson_complete,2023-11-09 00:00:00,"{""score"": 61}"
+E10309,S0071,PartnerA,SES022,video_play,2023-10-31 00:00:00,"{""duration_sec"": 429}"
+E10310,S0071,PartnerA,SES025,video_play,2023-10-03 00:00:00,"{""duration_sec"": 449}"
+E10311,S0072,PartnerA,SES018,video_play,2023-10-08 00:00:00,"{""duration_sec"": 157}"
+E10312,S0072,PartnerA,SES023,reflection_submit,2023-09-16 00:00:00,
+E10313,S0072,PartnerA,SES005,reflection_submit,2023-11-07 00:00:00,
+E10314,S0072,PartnerA,SES040,dialogue_join,2023-11-09 00:00:00,
+E10315,S0072,PartnerA,SES045,video_play,2023-09-14 00:00:00,"{""duration_sec"": 346}"
+E10316,S0073,PartnerB,SES041,video_play,2023-10-24 00:00:00,"{""duration_sec"": 410}"
+E10317,S0073,PartnerB,SES027,video_play,2023-10-13 00:00:00,"{""duration_sec"": 118}"
+E10318,S0073,PartnerB,SES031,lesson_start,2023-09-17 00:00:00,
+E10319,S0073,PartnerB,SES046,video_play,2023-10-24 00:00:00,"{""duration_sec"": 92}"
+E10320,S0073,PartnerB,SES020,dialogue_join,2023-10-05 00:00:00,
+E10321,S0074,PartnerB,SES029,lesson_start,2023-11-09 00:00:00,
+E10322,S0074,PartnerB,SES031,lesson_start,2023-09-22 00:00:00,
+E10323,S0074,PartnerB,SES005,lesson_complete,2023-11-11 00:00:00,"{""score"": 94}"
+E10324,S0074,PartnerB,SES020,lesson_start,2023-10-14 00:00:00,
+E10325,S0074,PartnerB,SES039,reflection_submit,2023-10-24 00:00:00,
+E10326,S0075,PartnerA,SES026,dialogue_join,2023-09-16 00:00:00,
+E10327,S0075,PartnerA,SES020,reflection_submit,2023-10-16 00:00:00,
+E10328,S0075,PartnerA,SES001,reflection_submit,2023-10-28 00:00:00,
+E10329,S0076,PartnerB,SES017,lesson_start,2023-11-05 00:00:00,
+E10330,S0076,PartnerB,SES020,dialogue_join,2023-11-09 00:00:00,
+E10331,S0076,PartnerB,SES048,dialogue_join,2023-10-21 00:00:00,
+E10332,S0076,PartnerB,SES003,lesson_start,2023-10-30 00:00:00,
+E10333,S0076,PartnerB,SES005,reflection_submit,2023-09-20 00:00:00,
+E10334,S0077,PartnerB,SES019,video_play,2023-10-15 00:00:00,"{""duration_sec"": 252}"
+E10335,S0078,PartnerA,SES013,dialogue_join,2023-10-30 00:00:00,
+E10336,S0078,PartnerA,SES022,lesson_start,2023-10-22 00:00:00,
+E10337,S0078,PartnerA,SES045,dialogue_join,2023-10-13 00:00:00,
+E10338,S0079,PartnerB,SES042,video_play,2023-09-26 00:00:00,"{""duration_sec"": 209}"
+E10339,S0079,PartnerB,SES013,reflection_submit,2023-09-28 00:00:00,
+E10340,S0079,PartnerB,SES020,lesson_start,2023-10-26 00:00:00,
+E10341,S0080,PartnerB,SES012,reflection_submit,2023-10-25 00:00:00,
+E10342,S0080,PartnerB,SES026,reflection_submit,2023-10-12 00:00:00,
+E10343,S0080,PartnerB,SES011,reflection_submit,2023-10-08 00:00:00,
+E10344,S0081,PartnerB,SES019,reflection_submit,2023-11-03 00:00:00,
+E10345,S0081,PartnerB,SES042,video_play,2023-11-04 00:00:00,"{""duration_sec"": 378}"
+E10346,S0082,PartnerA,SES047,reflection_submit,2023-09-07 00:00:00,
+E10347,S0082,PartnerA,SES039,reflection_submit,2023-10-31 00:00:00,
+E10348,S0082,PartnerA,SES037,video_play,2023-10-16 00:00:00,"{""duration_sec"": 572}"
+E10349,S0083,PartnerA,SES013,lesson_start,2023-10-24 00:00:00,
+E10350,S0083,PartnerA,SES004,lesson_start,2023-11-14 00:00:00,
+E10351,S0083,PartnerA,SES007,lesson_start,2023-09-11 00:00:00,
+E10352,S0083,PartnerA,SES041,video_play,2023-10-15 00:00:00,"{""duration_sec"": 447}"
+E10353,S0083,PartnerA,SES043,lesson_complete,2023-10-27 00:00:00,"{""score"": 77}"
+E10354,S0084,PartnerA,SES029,lesson_start,2023-10-06 00:00:00,
+E10355,S0084,PartnerA,SES030,reflection_submit,2023-09-17 00:00:00,
+E10356,S0085,PartnerB,SES045,video_play,2023-10-21 00:00:00,"{""duration_sec"": 102}"
+E10357,S0085,PartnerB,SES038,lesson_complete,2023-11-03 00:00:00,"{""score"": 96}"
+E10358,S0085,PartnerB,SES042,lesson_start,2023-09-07 00:00:00,
+E10359,S0086,PartnerB,SES018,lesson_start,2023-10-11 00:00:00,
+E10360,S0086,PartnerB,SES007,lesson_complete,2023-10-20 00:00:00,"{""score"": 59}"
+E10361,S0086,PartnerB,SES033,reflection_submit,2023-09-01 00:00:00,
+E10362,S0086,PartnerB,SES034,video_play,2023-09-04 00:00:00,"{""duration_sec"": 197}"
+E10363,S0086,PartnerB,SES004,lesson_start,2023-10-13 00:00:00,
+E10364,S0086,PartnerB,SES001,lesson_complete,2023-11-10 00:00:00,"{""score"": 53}"
+E10365,S0087,PartnerB,SES035,lesson_complete,2023-09-08 00:00:00,"{""score"": 58}"
+E10366,S0087,PartnerB,SES024,dialogue_join,2023-10-06 00:00:00,
+E10367,S0087,PartnerB,SES027,lesson_complete,2023-10-02 00:00:00,"{""score"": 92}"
+E10368,S0087,PartnerB,SES018,lesson_start,2023-09-28 00:00:00,
+E10369,S0087,PartnerB,SES016,video_play,2023-10-17 00:00:00,"{""duration_sec"": 422}"
+E10370,S0087,PartnerB,SES031,reflection_submit,2023-09-04 00:00:00,
+E10371,S0088,PartnerB,SES039,lesson_start,2023-10-18 00:00:00,
+E10372,S0088,PartnerB,SES039,lesson_complete,2023-09-04 00:00:00,"{""score"": 97}"
+E10373,S0088,PartnerB,SES002,reflection_submit,2023-09-12 00:00:00,
+E10374,S0088,PartnerB,SES026,video_play,2023-10-23 00:00:00,"{""duration_sec"": 539}"
+E10375,S0088,PartnerB,SES001,dialogue_join,2023-10-28 00:00:00,
+E10376,S0089,PartnerB,SES006,lesson_complete,2023-11-09 00:00:00,"{""score"": 94}"
+E10377,S0089,PartnerB,SES037,video_play,2023-09-18 00:00:00,"{""duration_sec"": 28}"
+E10378,S0090,PartnerA,SES030,dialogue_join,2023-10-12 00:00:00,
+E10379,S0090,PartnerA,SES010,lesson_start,2023-09-12 00:00:00,
+E10380,S0090,PartnerA,SES039,reflection_submit,2023-09-09 00:00:00,
+E10381,S0090,PartnerA,SES012,dialogue_join,2023-09-29 00:00:00,
+E10382,S0090,PartnerA,SES043,lesson_start,2023-11-01 00:00:00,
+E10383,S0090,PartnerA,SES015,dialogue_join,2023-09-02 00:00:00,
+E10384,S0090,PartnerA,SES044,video_play,2023-10-24 00:00:00,"{""duration_sec"": 496}"
+E10385,S0091,PartnerB,SES007,reflection_submit,2023-10-13 00:00:00,
+E10386,S0091,PartnerB,SES038,lesson_complete,2023-10-07 00:00:00,"{""score"": 93}"
+E10387,S0092,PartnerA,SES044,lesson_start,2023-10-29 00:00:00,
+E10388,S0092,PartnerA,SES004,lesson_complete,2023-11-07 00:00:00,"{""score"": 60}"
+E10389,S0093,PartnerA,SES024,lesson_complete,2023-09-22 00:00:00,"{""score"": 78}"
+E10390,S0094,PartnerA,SES006,video_play,2023-10-12 00:00:00,"{""duration_sec"": 392}"
+E10391,S0094,PartnerA,SES021,lesson_start,2023-10-25 00:00:00,
+E10392,S0095,PartnerA,SES028,video_play,2023-10-21 00:00:00,"{""duration_sec"": 233}"
+E10393,S0095,PartnerA,SES009,lesson_start,2023-10-28 00:00:00,
+E10394,S0095,PartnerA,SES022,dialogue_join,2023-10-02 00:00:00,
+E10395,S0096,PartnerB,SES042,dialogue_join,2023-10-23 00:00:00,
+E10396,S0096,PartnerB,SES010,reflection_submit,2023-10-09 00:00:00,
+E10397,S0096,PartnerB,SES007,lesson_complete,2023-09-29 00:00:00,"{""score"": 64}"
+E10398,S0096,PartnerB,SES047,reflection_submit,2023-09-03 00:00:00,
+E10399,S0096,PartnerB,SES010,reflection_submit,2023-09-29 00:00:00,
+E10400,S0097,PartnerA,SES006,reflection_submit,2023-09-12 00:00:00,
+E10401,S0097,PartnerA,SES029,dialogue_join,2023-09-19 00:00:00,
+E10402,S0097,PartnerA,SES008,reflection_submit,2023-09-08 00:00:00,
+E10403,S0097,PartnerA,SES047,lesson_complete,2023-09-04 00:00:00,"{""score"": 69}"
+E10404,S0097,PartnerA,SES021,reflection_submit,2023-11-06 00:00:00,
+E10405,S0097,PartnerA,SES008,dialogue_join,2023-09-16 00:00:00,
+E10406,S0097,PartnerA,SES003,dialogue_join,2023-09-09 00:00:00,
+E10407,S0098,PartnerB,SES007,dialogue_join,2023-09-15 00:00:00,
+E10408,S0098,PartnerB,SES022,lesson_complete,2023-09-24 00:00:00,"{""score"": 90}"
+E10409,S0098,PartnerB,SES037,lesson_start,2023-10-14 00:00:00,
+E10410,S0098,PartnerB,SES010,lesson_start,2023-11-11 00:00:00,
+E10411,S0099,PartnerB,SES012,lesson_start,2023-10-30 00:00:00,
+E10412,S0100,PartnerB,SES036,lesson_start,2023-09-23 00:00:00,
+E10413,S0100,PartnerB,SES006,reflection_submit,2023-11-08 00:00:00,
+E10414,S0101,PartnerB,SES018,lesson_start,2023-11-01 00:00:00,
+E10415,S0101,PartnerB,SES043,dialogue_join,2023-09-28 00:00:00,
+E10416,S0101,PartnerB,SES027,lesson_complete,2023-10-02 00:00:00,"{""score"": 77}"
+E10417,S0102,PartnerB,SES040,lesson_start,2023-11-07 00:00:00,
+E10418,S0102,PartnerB,SES034,lesson_start,2023-11-06 00:00:00,
+E10419,S0102,PartnerB,SES006,lesson_complete,2023-09-24 00:00:00,"{""score"": 57}"
+E10420,S0102,PartnerB,SES013,dialogue_join,2023-11-08 00:00:00,
+E10421,S0102,PartnerB,SES020,lesson_start,2023-11-05 00:00:00,
+E10422,S0102,PartnerB,SES047,lesson_complete,2023-11-02 00:00:00,"{""score"": 94}"
+E10423,S0102,PartnerB,SES013,video_play,2023-10-25 00:00:00,"{""duration_sec"": 504}"
+E10424,S0103,PartnerB,SES035,reflection_submit,2023-10-23 00:00:00,
+E10425,S0103,PartnerB,SES014,lesson_complete,2023-10-15 00:00:00,"{""score"": 95}"
+E10426,S0103,PartnerB,SES001,video_play,2023-10-21 00:00:00,"{""duration_sec"": 242}"
+E10427,S0104,PartnerB,SES018,reflection_submit,2023-10-25 00:00:00,
+E10428,S0104,PartnerB,SES019,video_play,2023-09-28 00:00:00,"{""duration_sec"": 298}"
+E10429,S0104,PartnerB,SES049,reflection_submit,2023-10-07 00:00:00,
+E10430,S0105,PartnerB,SES034,reflection_submit,2023-10-10 00:00:00,
+E10431,S0105,PartnerB,SES023,dialogue_join,2023-10-24 00:00:00,
+E10432,S0106,PartnerB,SES045,video_play,2023-10-16 00:00:00,"{""duration_sec"": 428}"
+E10433,S0106,PartnerB,SES022,video_play,2023-09-26 00:00:00,"{""duration_sec"": 448}"
+E10434,S0106,PartnerB,SES025,dialogue_join,2023-11-04 00:00:00,
+E10435,S0106,PartnerB,SES023,reflection_submit,2023-10-13 00:00:00,
+E10436,S0106,PartnerB,SES023,reflection_submit,2023-09-30 00:00:00,
+E10437,S0106,PartnerB,SES043,dialogue_join,2023-09-18 00:00:00,
+E10438,S0107,PartnerA,SES021,lesson_start,2023-10-27 00:00:00,
+E10439,S0107,PartnerA,SES045,reflection_submit,2023-10-14 00:00:00,
+E10440,S0107,PartnerA,SES047,lesson_complete,2023-10-10 00:00:00,"{""score"": 73}"
+E10441,S0107,PartnerA,SES042,reflection_submit,2023-09-07 00:00:00,
+E10442,S0107,PartnerA,SES020,lesson_complete,2023-09-06 00:00:00,"{""score"": 97}"
+E10443,S0107,PartnerA,SES009,reflection_submit,2023-10-27 00:00:00,
+E10444,S0107,PartnerA,SES026,dialogue_join,2023-10-10 00:00:00,
+E10445,S0108,PartnerA,SES049,dialogue_join,2023-09-20 00:00:00,
+E10446,S0108,PartnerA,SES028,dialogue_join,2023-09-17 00:00:00,
+E10447,S0108,PartnerA,SES041,video_play,2023-09-06 00:00:00,"{""duration_sec"": 546}"
+E10448,S0108,PartnerA,SES038,reflection_submit,2023-09-06 00:00:00,
+E10449,S0108,PartnerA,SES011,dialogue_join,2023-09-14 00:00:00,
+E10450,S0109,PartnerA,SES035,reflection_submit,2023-09-24 00:00:00,
+E10451,S0109,PartnerA,SES018,reflection_submit,2023-11-03 00:00:00,
+E10452,S0110,PartnerB,SES045,video_play,2023-10-05 00:00:00,"{""duration_sec"": 353}"
+E10453,S0111,PartnerA,SES036,lesson_start,2023-09-25 00:00:00,
+E10454,S0111,PartnerA,SES049,dialogue_join,2023-09-16 00:00:00,
+E10455,S0111,PartnerA,SES019,lesson_complete,2023-09-23 00:00:00,"{""score"": 78}"
+E10456,S0111,PartnerA,SES025,reflection_submit,2023-09-16 00:00:00,
+E10457,S0111,PartnerA,SES009,reflection_submit,2023-09-01 00:00:00,
+E10458,S0111,PartnerA,SES033,lesson_complete,2023-10-04 00:00:00,"{""score"": 68}"
+E10459,S0112,PartnerA,SES025,lesson_complete,2023-10-15 00:00:00,"{""score"": 83}"
+E10460,S0112,PartnerA,SES006,dialogue_join,2023-10-18 00:00:00,
+E10461,S0112,PartnerA,SES039,reflection_submit,2023-10-01 00:00:00,
+E10462,S0112,PartnerA,SES030,lesson_complete,2023-09-18 00:00:00,"{""score"": 59}"
+E10463,S0113,PartnerA,SES009,video_play,2023-09-15 00:00:00,"{""duration_sec"": 390}"
+E10464,S0113,PartnerA,SES040,video_play,2023-09-09 00:00:00,"{""duration_sec"": 200}"
+E10465,S0113,PartnerA,SES009,dialogue_join,2023-09-26 00:00:00,
+E10466,S0113,PartnerA,SES016,video_play,2023-09-15 00:00:00,"{""duration_sec"": 218}"
+E10467,S0114,PartnerA,SES005,lesson_start,2023-09-05 00:00:00,
+E10468,S0114,PartnerA,SES018,video_play,2023-09-02 00:00:00,"{""duration_sec"": 88}"
+E10469,S0114,PartnerA,SES013,dialogue_join,2023-09-04 00:00:00,
+E10470,S0115,PartnerB,SES010,dialogue_join,2023-10-31 00:00:00,
+E10471,S0115,PartnerB,SES008,lesson_start,2023-11-06 00:00:00,
+E10472,S0116,PartnerB,SES030,lesson_start,2023-09-11 00:00:00,
+E10473,S0116,PartnerB,SES037,reflection_submit,2023-10-12 00:00:00,
+E10474,S0116,PartnerB,SES036,dialogue_join,2023-09-13 00:00:00,
+E10475,S0116,PartnerB,SES010,video_play,2023-11-12 00:00:00,"{""duration_sec"": 558}"
+E10476,S0116,PartnerB,SES002,video_play,2023-10-26 00:00:00,"{""duration_sec"": 208}"
+E10477,S0116,PartnerB,SES021,video_play,2023-09-23 00:00:00,"{""duration_sec"": 496}"
+E10478,S0116,PartnerB,SES014,dialogue_join,2023-10-21 00:00:00,
+E10479,S0117,PartnerA,SES031,lesson_start,2023-10-20 00:00:00,
+E10480,S0117,PartnerA,SES017,video_play,2023-09-02 00:00:00,"{""duration_sec"": 192}"
+E10481,S0117,PartnerA,SES013,lesson_start,2023-11-09 00:00:00,
+E10482,S0117,PartnerA,SES035,reflection_submit,2023-11-14 00:00:00,
+E10483,S0117,PartnerA,SES005,video_play,2023-10-29 00:00:00,"{""duration_sec"": 201}"
+E10484,S0118,PartnerB,SES047,reflection_submit,2023-11-01 00:00:00,
+E10485,S0118,PartnerB,SES004,lesson_start,2023-09-15 00:00:00,
+E10486,S0118,PartnerB,SES044,lesson_start,2023-10-25 00:00:00,
+E10487,S0118,PartnerB,SES014,reflection_submit,2023-10-19 00:00:00,
+E10488,S0119,PartnerB,SES030,video_play,2023-10-19 00:00:00,"{""duration_sec"": 528}"
+E10489,S0119,PartnerB,SES016,lesson_start,2023-10-21 00:00:00,
+E10490,S0119,PartnerB,SES016,lesson_complete,2023-10-12 00:00:00,"{""score"": 77}"
+E10491,S0120,PartnerA,SES013,dialogue_join,2023-09-07 00:00:00,
+E10492,S0121,PartnerA,SES036,lesson_complete,2023-09-25 00:00:00,"{""score"": 83}"
+E10493,S0121,PartnerA,SES006,lesson_complete,2023-09-29 00:00:00,"{""score"": 72}"
+E10494,S0121,PartnerA,SES017,lesson_start,2023-10-16 00:00:00,
+E10495,S0122,PartnerA,SES034,lesson_complete,2023-09-28 00:00:00,"{""score"": 100}"
+E10496,S0122,PartnerA,SES011,reflection_submit,2023-10-08 00:00:00,
+E10497,S0122,PartnerA,SES014,dialogue_join,2023-10-21 00:00:00,
+E10498,S0123,PartnerA,SES039,dialogue_join,2023-10-29 00:00:00,
+E10499,S0123,PartnerA,SES020,reflection_submit,2023-10-29 00:00:00,
+E10500,S0124,PartnerB,SES045,lesson_start,2023-09-01 00:00:00,
+E10501,S0124,PartnerB,SES008,dialogue_join,2023-10-26 00:00:00,
+E10502,S0124,PartnerB,SES003,video_play,2023-09-07 00:00:00,"{""duration_sec"": 44}"
+E10503,S0124,PartnerB,SES001,reflection_submit,2023-11-10 00:00:00,
+E10504,S0124,PartnerB,SES041,video_play,2023-11-14 00:00:00,"{""duration_sec"": 96}"
+E10505,S0124,PartnerB,SES036,lesson_complete,2023-10-07 00:00:00,"{""score"": 82}"
+E10506,S0124,PartnerB,SES017,lesson_start,2023-10-18 00:00:00,
+E10507,S0125,PartnerA,SES047,reflection_submit,2023-11-01 00:00:00,
+E10508,S0125,PartnerA,SES014,reflection_submit,2023-11-02 00:00:00,
+E10509,S0125,PartnerA,SES031,dialogue_join,2023-09-17 00:00:00,
+E10510,S0125,PartnerA,SES023,video_play,2023-10-20 00:00:00,"{""duration_sec"": 33}"
+E10511,S0125,PartnerA,SES015,lesson_complete,2023-11-09 00:00:00,"{""score"": 64}"
+E10512,S0126,PartnerA,SES008,lesson_complete,2023-09-03 00:00:00,"{""score"": 85}"
+E10513,S0126,PartnerA,SES041,dialogue_join,2023-10-31 00:00:00,
+E10514,S0126,PartnerA,SES034,video_play,2023-11-01 00:00:00,"{""duration_sec"": 10}"
+E10515,S0127,PartnerB,SES029,video_play,2023-11-10 00:00:00,"{""duration_sec"": 343}"
+E10516,S0127,PartnerB,SES031,dialogue_join,2023-11-03 00:00:00,
+E10517,S0127,PartnerB,SES025,dialogue_join,2023-10-08 00:00:00,
+E10518,S0127,PartnerB,SES002,reflection_submit,2023-10-26 00:00:00,
+E10519,S0127,PartnerB,SES020,dialogue_join,2023-10-31 00:00:00,
+E10520,S0127,PartnerB,SES022,dialogue_join,2023-10-05 00:00:00,
+E10521,S0127,PartnerB,SES016,dialogue_join,2023-10-20 00:00:00,
+E10522,S0128,PartnerB,SES043,lesson_start,2023-09-17 00:00:00,
+E10523,S0128,PartnerB,SES004,lesson_complete,2023-10-09 00:00:00,"{""score"": 51}"
+E10524,S0129,PartnerA,SES039,lesson_start,2023-11-08 00:00:00,
+E10525,S0129,PartnerA,SES020,dialogue_join,2023-11-03 00:00:00,
+E10526,S0130,PartnerA,SES037,lesson_start,2023-11-12 00:00:00,
+E10527,S0130,PartnerA,SES042,dialogue_join,2023-10-27 00:00:00,
+E10528,S0130,PartnerA,SES043,lesson_complete,2023-11-03 00:00:00,"{""score"": 58}"
+E10529,S0131,PartnerA,SES038,lesson_complete,2023-09-18 00:00:00,"{""score"": 78}"
+E10530,S0131,PartnerA,SES033,lesson_start,2023-09-01 00:00:00,
+E10531,S0131,PartnerA,SES018,video_play,2023-09-27 00:00:00,"{""duration_sec"": 269}"
+E10532,S0131,PartnerA,SES032,reflection_submit,2023-10-03 00:00:00,
+E10533,S0131,PartnerA,SES041,video_play,2023-10-25 00:00:00,"{""duration_sec"": 115}"
+E10534,S0131,PartnerA,SES016,video_play,2023-10-04 00:00:00,"{""duration_sec"": 591}"
+E10535,S0132,PartnerB,SES024,lesson_complete,2023-10-26 00:00:00,"{""score"": 91}"
+E10536,S0132,PartnerB,SES013,lesson_start,2023-10-26 00:00:00,
+E10537,S0132,PartnerB,SES049,lesson_complete,2023-10-13 00:00:00,"{""score"": 62}"
+E10538,S0132,PartnerB,SES042,dialogue_join,2023-09-18 00:00:00,
+E10539,S0132,PartnerB,SES030,reflection_submit,2023-10-28 00:00:00,
+E10540,S0132,PartnerB,SES018,video_play,2023-09-07 00:00:00,"{""duration_sec"": 80}"
+E10541,S0132,PartnerB,SES004,lesson_complete,2023-10-19 00:00:00,"{""score"": 50}"
+E10542,S0133,PartnerB,SES029,lesson_complete,2023-09-21 00:00:00,"{""score"": 92}"
+E10543,S0133,PartnerB,SES009,lesson_complete,2023-10-17 00:00:00,"{""score"": 63}"
+E10544,S0133,PartnerB,SES006,video_play,2023-09-20 00:00:00,"{""duration_sec"": 307}"
+E10545,S0133,PartnerB,SES038,reflection_submit,2023-11-11 00:00:00,
+E10546,S0134,PartnerA,SES049,lesson_start,2023-09-24 00:00:00,
+E10547,S0135,PartnerB,SES022,reflection_submit,2023-11-02 00:00:00,
+E10548,S0135,PartnerB,SES035,lesson_start,2023-11-01 00:00:00,
+E10549,S0135,PartnerB,SES022,dialogue_join,2023-11-14 00:00:00,
+E10550,S0135,PartnerB,SES029,video_play,2023-10-11 00:00:00,"{""duration_sec"": 135}"
+E10551,S0135,PartnerB,SES001,lesson_complete,2023-10-01 00:00:00,"{""score"": 83}"
+E10552,S0135,PartnerB,SES038,lesson_complete,2023-09-14 00:00:00,"{""score"": 66}"
+E10553,S0135,PartnerB,SES015,lesson_start,2023-10-26 00:00:00,
+E10554,S0136,PartnerB,SES019,reflection_submit,2023-10-27 00:00:00,
+E10555,S0136,PartnerB,SES035,video_play,2023-09-01 00:00:00,"{""duration_sec"": 491}"
+E10556,S0136,PartnerB,SES006,video_play,2023-10-07 00:00:00,"{""duration_sec"": 486}"
+E10557,S0136,PartnerB,SES001,lesson_start,2023-09-21 00:00:00,
+E10558,S0136,PartnerB,SES016,dialogue_join,2023-10-31 00:00:00,
+E10559,S0136,PartnerB,SES028,lesson_complete,2023-11-04 00:00:00,"{""score"": 65}"
+E10560,S0137,PartnerA,SES017,lesson_complete,2023-10-29 00:00:00,"{""score"": 92}"
+E10561,S0137,PartnerA,SES044,video_play,2023-10-04 00:00:00,"{""duration_sec"": 336}"
+E10562,S0137,PartnerA,SES004,dialogue_join,2023-09-16 00:00:00,
+E10563,S0137,PartnerA,SES002,reflection_submit,2023-09-10 00:00:00,
+E10564,S0138,PartnerB,SES017,dialogue_join,2023-09-12 00:00:00,
+E10565,S0138,PartnerB,SES020,lesson_start,2023-09-01 00:00:00,
+E10566,S0139,PartnerA,SES006,dialogue_join,2023-09-18 00:00:00,
+E10567,S0139,PartnerA,SES033,dialogue_join,2023-09-23 00:00:00,
+E10568,S0139,PartnerA,SES007,lesson_complete,2023-10-14 00:00:00,"{""score"": 62}"
+E10569,S0139,PartnerA,SES026,reflection_submit,2023-10-06 00:00:00,
+E10570,S0139,PartnerA,SES027,dialogue_join,2023-10-27 00:00:00,
+E10571,S0139,PartnerA,SES002,dialogue_join,2023-10-25 00:00:00,
+E10572,S0140,PartnerB,SES016,lesson_start,2023-10-08 00:00:00,
+E10573,S0140,PartnerB,SES026,dialogue_join,2023-10-05 00:00:00,
+E10574,S0141,PartnerB,SES023,reflection_submit,2023-09-29 00:00:00,
+E10575,S0141,PartnerB,SES041,lesson_complete,2023-10-11 00:00:00,"{""score"": 82}"
+E10576,S0141,PartnerB,SES032,reflection_submit,2023-10-01 00:00:00,
+E10577,S0141,PartnerB,SES007,lesson_complete,2023-09-01 00:00:00,"{""score"": 92}"
+E10578,S0141,PartnerB,SES014,dialogue_join,2023-10-22 00:00:00,
+E10579,S0141,PartnerB,SES026,lesson_complete,2023-09-30 00:00:00,"{""score"": 56}"
+E10580,S0141,PartnerB,SES017,video_play,2023-11-13 00:00:00,"{""duration_sec"": 135}"
+E10581,S0142,PartnerA,SES012,lesson_complete,2023-10-26 00:00:00,"{""score"": 100}"
+E10582,S0142,PartnerA,SES032,lesson_start,2023-09-15 00:00:00,
+E10583,S0142,PartnerA,SES028,reflection_submit,2023-11-03 00:00:00,
+E10584,S0143,PartnerB,SES002,reflection_submit,2023-10-06 00:00:00,
+E10585,S0143,PartnerB,SES013,lesson_complete,2023-09-15 00:00:00,"{""score"": 56}"
+E10586,S0143,PartnerB,SES023,lesson_start,2023-10-30 00:00:00,
+E10587,S0143,PartnerB,SES011,lesson_complete,2023-11-13 00:00:00,"{""score"": 82}"
+E10588,S0143,PartnerB,SES037,lesson_start,2023-10-18 00:00:00,
+E10589,S0143,PartnerB,SES038,reflection_submit,2023-10-11 00:00:00,
+E10590,S0144,PartnerA,SES017,lesson_start,2023-10-27 00:00:00,
+E10591,S0144,PartnerA,SES024,lesson_complete,2023-09-09 00:00:00,"{""score"": 81}"
+E10592,S0144,PartnerA,SES017,video_play,2023-10-20 00:00:00,"{""duration_sec"": 346}"
+E10593,S0144,PartnerA,SES021,lesson_complete,2023-09-21 00:00:00,"{""score"": 60}"
+E10594,S0144,PartnerA,SES024,lesson_complete,2023-11-13 00:00:00,"{""score"": 78}"
+E10595,S0145,PartnerB,SES018,lesson_start,2023-10-12 00:00:00,
+E10596,S0145,PartnerB,SES045,video_play,2023-09-17 00:00:00,"{""duration_sec"": 110}"
+E10597,S0145,PartnerB,SES014,lesson_start,2023-10-19 00:00:00,
+E10598,S0145,PartnerB,SES031,dialogue_join,2023-09-04 00:00:00,
+E10599,S0145,PartnerB,SES047,lesson_complete,2023-09-09 00:00:00,"{""score"": 69}"
+E10600,S0146,PartnerA,SES015,reflection_submit,2023-09-19 00:00:00,
+E10601,S0146,PartnerA,SES025,lesson_complete,2023-09-26 00:00:00,"{""score"": 75}"
+E10602,S0146,PartnerA,SES028,lesson_complete,2023-10-19 00:00:00,"{""score"": 95}"
+E10603,S0146,PartnerA,SES003,lesson_complete,2023-11-05 00:00:00,"{""score"": 81}"
+E10604,S0146,PartnerA,SES042,lesson_start,2023-09-19 00:00:00,
+E10605,S0147,PartnerB,SES049,video_play,2023-10-26 00:00:00,"{""duration_sec"": 597}"
+E10606,S0148,PartnerA,SES043,reflection_submit,2023-10-19 00:00:00,
+E10607,S0148,PartnerA,SES008,lesson_complete,2023-10-22 00:00:00,"{""score"": 84}"
+E10608,S0148,PartnerA,SES046,video_play,2023-09-16 00:00:00,"{""duration_sec"": 55}"
+E10609,S0148,PartnerA,SES001,dialogue_join,2023-10-19 00:00:00,
+E10610,S0148,PartnerA,SES010,lesson_start,2023-09-16 00:00:00,
+E10611,S0148,PartnerA,SES029,lesson_complete,2023-09-06 00:00:00,"{""score"": 57}"
+E10612,S0148,PartnerA,SES007,video_play,2023-10-13 00:00:00,"{""duration_sec"": 345}"
+E10613,S0149,PartnerA,SES007,lesson_complete,2023-10-03 00:00:00,"{""score"": 63}"
+E10614,S0149,PartnerA,SES020,lesson_complete,2023-11-02 00:00:00,"{""score"": 94}"
+E10615,S0150,PartnerA,SES026,video_play,2023-11-14 00:00:00,"{""duration_sec"": 77}"
+E10616,S0150,PartnerA,SES044,lesson_complete,2023-09-30 00:00:00,"{""score"": 63}"
+E10617,S0150,PartnerA,SES012,lesson_start,2023-10-14 00:00:00,
+E10618,S0151,PartnerB,SES014,dialogue_join,2023-09-26 00:00:00,
+E10619,S0152,PartnerB,SES042,video_play,2023-11-12 00:00:00,"{""duration_sec"": 587}"
+E10620,S0152,PartnerB,SES023,dialogue_join,2023-10-18 00:00:00,
+E10621,S0152,PartnerB,SES020,video_play,2023-09-20 00:00:00,"{""duration_sec"": 139}"
+E10622,S0152,PartnerB,SES046,reflection_submit,2023-09-03 00:00:00,
+E10623,S0152,PartnerB,SES036,video_play,2023-09-16 00:00:00,"{""duration_sec"": 331}"
+E10624,S0153,PartnerB,SES046,lesson_complete,2023-09-06 00:00:00,"{""score"": 93}"
+E10625,S0153,PartnerB,SES036,dialogue_join,2023-09-22 00:00:00,
+E10626,S0153,PartnerB,SES030,lesson_complete,2023-10-21 00:00:00,"{""score"": 61}"
+E10627,S0154,PartnerB,SES006,reflection_submit,2023-09-27 00:00:00,
+E10628,S0154,PartnerB,SES043,dialogue_join,2023-10-18 00:00:00,
+E10629,S0154,PartnerB,SES005,reflection_submit,2023-09-11 00:00:00,
+E10630,S0154,PartnerB,SES005,reflection_submit,2023-09-23 00:00:00,
+E10631,S0154,PartnerB,SES037,dialogue_join,2023-09-09 00:00:00,
+E10632,S0154,PartnerB,SES029,reflection_submit,2023-11-09 00:00:00,
+E10633,S0154,PartnerB,SES026,lesson_start,2023-09-21 00:00:00,
+E10634,S0155,PartnerA,SES011,lesson_start,2023-10-08 00:00:00,
+E10635,S0155,PartnerA,SES035,lesson_complete,2023-09-14 00:00:00,"{""score"": 73}"
+E10636,S0155,PartnerA,SES038,lesson_complete,2023-10-04 00:00:00,"{""score"": 61}"
+E10637,S0155,PartnerA,SES010,lesson_start,2023-09-17 00:00:00,
+E10638,S0155,PartnerA,SES003,lesson_start,2023-11-01 00:00:00,
+E10639,S0156,PartnerA,SES001,reflection_submit,2023-09-12 00:00:00,
+E10640,S0156,PartnerA,SES034,video_play,2023-09-04 00:00:00,"{""duration_sec"": 406}"
+E10641,S0156,PartnerA,SES019,lesson_complete,2023-09-02 00:00:00,"{""score"": 54}"
+E10642,S0156,PartnerA,SES010,video_play,2023-09-06 00:00:00,"{""duration_sec"": 90}"
+E10643,S0156,PartnerA,SES011,dialogue_join,2023-11-02 00:00:00,
+E10644,S0156,PartnerA,SES012,lesson_start,2023-11-12 00:00:00,
+E10645,S0156,PartnerA,SES011,lesson_complete,2023-10-23 00:00:00,"{""score"": 57}"
+E10646,S0157,PartnerB,SES020,lesson_complete,2023-09-08 00:00:00,"{""score"": 70}"
+E10647,S0157,PartnerB,SES042,video_play,2023-09-14 00:00:00,"{""duration_sec"": 486}"
+E10648,S0157,PartnerB,SES022,lesson_complete,2023-09-21 00:00:00,"{""score"": 70}"
+E10649,S0157,PartnerB,SES030,video_play,2023-10-09 00:00:00,"{""duration_sec"": 315}"
+E10650,S0158,PartnerB,SES001,lesson_start,2023-09-26 00:00:00,
+E10651,S0158,PartnerB,SES044,dialogue_join,2023-10-14 00:00:00,
+E10652,S0158,PartnerB,SES017,lesson_complete,2023-10-21 00:00:00,"{""score"": 55}"
+E10653,S0158,PartnerB,SES024,lesson_complete,2023-10-21 00:00:00,"{""score"": 87}"
+E10654,S0159,PartnerA,SES006,dialogue_join,2023-10-27 00:00:00,
+E10655,S0159,PartnerA,SES018,lesson_start,2023-10-26 00:00:00,
+E10656,S0160,PartnerA,SES032,lesson_start,2023-10-18 00:00:00,
+E10657,S0160,PartnerA,SES010,lesson_complete,2023-10-22 00:00:00,"{""score"": 76}"
+E10658,S0160,PartnerA,SES042,lesson_complete,2023-09-26 00:00:00,"{""score"": 81}"
+E10659,S0160,PartnerA,SES011,lesson_start,2023-09-23 00:00:00,
+E10660,S0161,PartnerA,SES040,lesson_start,2023-10-01 00:00:00,
+E10661,S0161,PartnerA,SES021,lesson_start,2023-09-02 00:00:00,
+E10662,S0162,PartnerA,SES037,lesson_start,2023-10-05 00:00:00,
+E10663,S0162,PartnerA,SES018,reflection_submit,2023-11-11 00:00:00,
+E10664,S0163,PartnerA,SES010,video_play,2023-10-22 00:00:00,"{""duration_sec"": 318}"
+E10665,S0163,PartnerA,SES011,lesson_start,2023-11-05 00:00:00,
+E10666,S0163,PartnerA,SES036,lesson_complete,2023-10-03 00:00:00,"{""score"": 75}"
+E10667,S0163,PartnerA,SES040,dialogue_join,2023-11-07 00:00:00,
+E10668,S0163,PartnerA,SES018,lesson_complete,2023-09-19 00:00:00,"{""score"": 68}"
+E10669,S0164,PartnerB,SES016,reflection_submit,2023-11-04 00:00:00,
+E10670,S0164,PartnerB,SES008,video_play,2023-09-18 00:00:00,"{""duration_sec"": 555}"
+E10671,S0165,PartnerA,SES026,dialogue_join,2023-09-30 00:00:00,
+E10672,S0166,PartnerB,SES019,dialogue_join,2023-09-29 00:00:00,
+E10673,S0166,PartnerB,SES026,reflection_submit,2023-10-28 00:00:00,
+E10674,S0166,PartnerB,SES002,lesson_complete,2023-11-14 00:00:00,"{""score"": 61}"
+E10675,S0166,PartnerB,SES037,video_play,2023-09-02 00:00:00,"{""duration_sec"": 598}"
+E10676,S0166,PartnerB,SES007,dialogue_join,2023-09-26 00:00:00,
+E10677,S0166,PartnerB,SES012,lesson_complete,2023-09-16 00:00:00,"{""score"": 73}"
+E10678,S0167,PartnerA,SES032,video_play,2023-09-15 00:00:00,"{""duration_sec"": 338}"
+E10679,S0167,PartnerA,SES013,dialogue_join,2023-09-05 00:00:00,
+E10680,S0167,PartnerA,SES010,reflection_submit,2023-10-22 00:00:00,
+E10681,S0167,PartnerA,SES041,dialogue_join,2023-10-23 00:00:00,
+E10682,S0167,PartnerA,SES042,lesson_complete,2023-09-07 00:00:00,"{""score"": 64}"
+E10683,S0167,PartnerA,SES035,video_play,2023-09-15 00:00:00,"{""duration_sec"": 425}"
+E10684,S0167,PartnerA,SES004,video_play,2023-09-11 00:00:00,"{""duration_sec"": 586}"
+E10685,S0168,PartnerB,SES023,lesson_complete,2023-10-10 00:00:00,"{""score"": 86}"
+E10686,S0168,PartnerB,SES023,dialogue_join,2023-09-16 00:00:00,
+E10687,S0168,PartnerB,SES004,dialogue_join,2023-10-01 00:00:00,
+E10688,S0168,PartnerB,SES042,dialogue_join,2023-09-25 00:00:00,
+E10689,S0169,PartnerB,SES048,video_play,2023-09-09 00:00:00,"{""duration_sec"": 366}"
+E10690,S0169,PartnerB,SES035,video_play,2023-11-08 00:00:00,"{""duration_sec"": 293}"
+E10691,S0169,PartnerB,SES034,lesson_complete,2023-10-28 00:00:00,"{""score"": 95}"
+E10692,S0169,PartnerB,SES042,reflection_submit,2023-10-08 00:00:00,
+E10693,S0170,PartnerB,SES033,dialogue_join,2023-11-10 00:00:00,
+E10694,S0170,PartnerB,SES008,lesson_start,2023-10-21 00:00:00,
+E10695,S0170,PartnerB,SES015,lesson_complete,2023-10-08 00:00:00,"{""score"": 92}"
+E10696,S0170,PartnerB,SES029,dialogue_join,2023-10-24 00:00:00,
+E10697,S0171,PartnerB,SES004,lesson_complete,2023-09-18 00:00:00,"{""score"": 61}"
+E10698,S0171,PartnerB,SES023,video_play,2023-10-06 00:00:00,"{""duration_sec"": 290}"
+E10699,S0171,PartnerB,SES003,dialogue_join,2023-09-09 00:00:00,
+E10700,S0172,PartnerB,SES018,dialogue_join,2023-10-13 00:00:00,
+E10701,S0172,PartnerB,SES034,reflection_submit,2023-09-04 00:00:00,
+E10702,S0172,PartnerB,SES041,dialogue_join,2023-10-15 00:00:00,
+E10703,S0172,PartnerB,SES028,lesson_complete,2023-10-12 00:00:00,"{""score"": 64}"
+E10704,S0172,PartnerB,SES034,video_play,2023-09-01 00:00:00,"{""duration_sec"": 78}"
+E10705,S0173,PartnerA,SES048,lesson_complete,2023-10-05 00:00:00,"{""score"": 66}"
+E10706,S0173,PartnerA,SES026,lesson_complete,2023-10-19 00:00:00,"{""score"": 88}"
+E10707,S0173,PartnerA,SES009,video_play,2023-11-07 00:00:00,"{""duration_sec"": 442}"
+E10708,S0173,PartnerA,SES024,lesson_complete,2023-10-01 00:00:00,"{""score"": 98}"
+E10709,S0173,PartnerA,SES043,reflection_submit,2023-10-25 00:00:00,
+E10710,S0173,PartnerA,SES026,lesson_start,2023-10-27 00:00:00,
+E10711,S0173,PartnerA,SES015,dialogue_join,2023-09-27 00:00:00,
+E10712,S0174,PartnerA,SES003,video_play,2023-10-19 00:00:00,"{""duration_sec"": 429}"
+E10713,S0174,PartnerA,SES021,video_play,2023-10-26 00:00:00,"{""duration_sec"": 320}"
+E10714,S0174,PartnerA,SES031,video_play,2023-10-28 00:00:00,"{""duration_sec"": 53}"
+E10715,S0174,PartnerA,SES020,dialogue_join,2023-09-23 00:00:00,
+E10716,S0175,PartnerB,SES021,dialogue_join,2023-09-17 00:00:00,
+E10717,S0175,PartnerB,SES013,lesson_complete,2023-09-19 00:00:00,"{""score"": 86}"
+E10718,S0175,PartnerB,SES018,dialogue_join,2023-11-01 00:00:00,
+E10719,S0175,PartnerB,SES019,video_play,2023-10-14 00:00:00,"{""duration_sec"": 477}"
+E10720,S0176,PartnerA,SES044,lesson_start,2023-11-07 00:00:00,
+E10721,S0176,PartnerA,SES034,reflection_submit,2023-11-05 00:00:00,
+E10722,S0176,PartnerA,SES010,dialogue_join,2023-10-12 00:00:00,
+E10723,S0176,PartnerA,SES013,lesson_start,2023-11-08 00:00:00,
+E10724,S0176,PartnerA,SES010,lesson_complete,2023-10-30 00:00:00,"{""score"": 59}"
+E10725,S0176,PartnerA,SES021,reflection_submit,2023-09-08 00:00:00,
+E10726,S0176,PartnerA,SES028,lesson_start,2023-09-30 00:00:00,
+E10727,S0177,PartnerA,SES009,lesson_start,2023-09-17 00:00:00,
+E10728,S0177,PartnerA,SES031,dialogue_join,2023-10-22 00:00:00,
+E10729,S0177,PartnerA,SES040,dialogue_join,2023-10-08 00:00:00,
+E10730,S0177,PartnerA,SES019,reflection_submit,2023-10-20 00:00:00,
+E10731,S0177,PartnerA,SES013,lesson_start,2023-11-01 00:00:00,
+E10732,S0178,PartnerB,SES049,reflection_submit,2023-10-06 00:00:00,
+E10733,S0178,PartnerB,SES010,lesson_complete,2023-09-06 00:00:00,"{""score"": 93}"
+E10734,S0178,PartnerB,SES001,lesson_start,2023-11-10 00:00:00,
+E10735,S0178,PartnerB,SES021,lesson_complete,2023-10-26 00:00:00,"{""score"": 76}"
+E10736,S0178,PartnerB,SES025,video_play,2023-09-28 00:00:00,"{""duration_sec"": 495}"
+E10737,S0179,PartnerA,SES018,dialogue_join,2023-10-17 00:00:00,
+E10738,S0179,PartnerA,SES029,lesson_start,2023-09-19 00:00:00,
+E10739,S0179,PartnerA,SES001,lesson_start,2023-09-03 00:00:00,
+E10740,S0179,PartnerA,SES035,lesson_complete,2023-10-10 00:00:00,"{""score"": 70}"
+E10741,S0179,PartnerA,SES025,reflection_submit,2023-10-25 00:00:00,
+E10742,S0180,PartnerB,SES034,video_play,2023-10-26 00:00:00,"{""duration_sec"": 118}"
+E10743,S0180,PartnerB,SES013,reflection_submit,2023-11-12 00:00:00,
+E10744,S0180,PartnerB,SES002,lesson_start,2023-09-19 00:00:00,
+E10745,S0180,PartnerB,SES007,reflection_submit,2023-11-02 00:00:00,
+E10746,S0181,PartnerA,SES009,lesson_complete,2023-09-17 00:00:00,"{""score"": 69}"
+E10747,S0181,PartnerA,SES047,reflection_submit,2023-09-02 00:00:00,
+E10748,S0182,PartnerA,SES017,video_play,2023-11-08 00:00:00,"{""duration_sec"": 28}"
+E10749,S0182,PartnerA,SES017,lesson_complete,2023-10-09 00:00:00,"{""score"": 56}"
+E10750,S0182,PartnerA,SES045,video_play,2023-09-04 00:00:00,"{""duration_sec"": 433}"
+E10751,S0182,PartnerA,SES005,lesson_start,2023-09-30 00:00:00,
+E10752,S0182,PartnerA,SES024,video_play,2023-09-29 00:00:00,"{""duration_sec"": 205}"
+E10753,S0182,PartnerA,SES004,lesson_start,2023-10-21 00:00:00,
+E10754,S0182,PartnerA,SES018,dialogue_join,2023-10-12 00:00:00,
+E10755,S0183,PartnerA,SES012,reflection_submit,2023-09-17 00:00:00,
+E10756,S0184,PartnerB,SES035,reflection_submit,2023-09-23 00:00:00,
+E10757,S0184,PartnerB,SES001,lesson_start,2023-10-02 00:00:00,
+E10758,S0184,PartnerB,SES015,video_play,2023-09-28 00:00:00,"{""duration_sec"": 274}"
+E10759,S0184,PartnerB,SES022,video_play,2023-09-27 00:00:00,"{""duration_sec"": 428}"
+E10760,S0184,PartnerB,SES045,reflection_submit,2023-09-20 00:00:00,
+E10761,S0184,PartnerB,SES021,lesson_start,2023-10-19 00:00:00,
+E10762,S0185,PartnerA,SES010,lesson_start,2023-10-17 00:00:00,
+E10763,S0185,PartnerA,SES032,reflection_submit,2023-11-01 00:00:00,
+E10764,S0185,PartnerA,SES048,video_play,2023-10-16 00:00:00,"{""duration_sec"": 155}"
+E10765,S0185,PartnerA,SES028,reflection_submit,2023-09-18 00:00:00,
+E10766,S0185,PartnerA,SES039,reflection_submit,2023-10-19 00:00:00,
+E10767,S0186,PartnerA,SES008,lesson_complete,2023-10-24 00:00:00,"{""score"": 93}"
+E10768,S0186,PartnerA,SES036,lesson_complete,2023-09-18 00:00:00,"{""score"": 56}"
+E10769,S0186,PartnerA,SES009,video_play,2023-11-12 00:00:00,"{""duration_sec"": 47}"
+E10770,S0186,PartnerA,SES035,reflection_submit,2023-09-05 00:00:00,
+E10771,S0186,PartnerA,SES004,video_play,2023-10-09 00:00:00,"{""duration_sec"": 167}"
+E10772,S0187,PartnerB,SES028,lesson_start,2023-11-05 00:00:00,
+E10773,S0187,PartnerB,SES014,reflection_submit,2023-09-22 00:00:00,
+E10774,S0187,PartnerB,SES004,video_play,2023-09-01 00:00:00,"{""duration_sec"": 320}"
+E10775,S0187,PartnerB,SES031,lesson_start,2023-09-12 00:00:00,
+E10776,S0188,PartnerB,SES044,dialogue_join,2023-10-20 00:00:00,
+E10777,S0188,PartnerB,SES012,lesson_complete,2023-09-18 00:00:00,"{""score"": 87}"
+E10778,S0189,PartnerB,SES030,lesson_complete,2023-09-17 00:00:00,"{""score"": 64}"
+E10779,S0189,PartnerB,SES041,video_play,2023-10-04 00:00:00,"{""duration_sec"": 336}"
+E10780,S0190,PartnerA,SES045,lesson_complete,2023-10-28 00:00:00,"{""score"": 87}"
+E10781,S0190,PartnerA,SES034,reflection_submit,2023-10-14 00:00:00,
+E10782,S0190,PartnerA,SES032,lesson_complete,2023-11-06 00:00:00,"{""score"": 86}"
+E10783,S0190,PartnerA,SES022,reflection_submit,2023-11-13 00:00:00,
+E10784,S0190,PartnerA,SES003,reflection_submit,2023-10-18 00:00:00,
+E10785,S0190,PartnerA,SES007,lesson_start,2023-09-13 00:00:00,
+E10786,S0191,PartnerA,SES039,video_play,2023-09-17 00:00:00,"{""duration_sec"": 147}"
+E10787,S0191,PartnerA,SES032,video_play,2023-11-13 00:00:00,"{""duration_sec"": 334}"
+E10788,S0192,PartnerB,SES013,reflection_submit,2023-09-21 00:00:00,
+E10789,S0193,PartnerB,SES035,video_play,2023-09-03 00:00:00,"{""duration_sec"": 161}"
+E10790,S0193,PartnerB,SES048,video_play,2023-10-24 00:00:00,"{""duration_sec"": 177}"
+E10791,S0193,PartnerB,SES031,reflection_submit,2023-10-26 00:00:00,
+E10792,S0193,PartnerB,SES040,video_play,2023-11-07 00:00:00,"{""duration_sec"": 482}"
+E10793,S0193,PartnerB,SES027,dialogue_join,2023-09-06 00:00:00,
+E10794,S0193,PartnerB,SES036,lesson_start,2023-09-02 00:00:00,
+E10795,S0194,PartnerB,SES002,dialogue_join,2023-10-22 00:00:00,
+E10796,S0195,PartnerB,SES026,reflection_submit,2023-09-22 00:00:00,
+E10797,S0195,PartnerB,SES003,reflection_submit,2023-10-30 00:00:00,
+E10798,S0195,PartnerB,SES024,lesson_complete,2023-11-08 00:00:00,"{""score"": 61}"
+E10799,S0195,PartnerB,SES013,video_play,2023-10-11 00:00:00,"{""duration_sec"": 560}"
+E10800,S0196,PartnerA,SES045,dialogue_join,2023-09-12 00:00:00,
+E10801,S0197,PartnerA,SES040,lesson_complete,2023-10-15 00:00:00,"{""score"": 82}"
+E10802,S0197,PartnerA,SES003,reflection_submit,2023-09-05 00:00:00,
+E10803,S0197,PartnerA,SES007,lesson_complete,2023-10-26 00:00:00,"{""score"": 60}"
+E10804,S0197,PartnerA,SES034,lesson_complete,2023-11-06 00:00:00,"{""score"": 91}"
+E10805,S0197,PartnerA,SES045,reflection_submit,2023-11-10 00:00:00,
+E10806,S0198,PartnerB,SES041,lesson_complete,2023-11-02 00:00:00,"{""score"": 55}"
+E10807,S0198,PartnerB,SES034,video_play,2023-10-20 00:00:00,"{""duration_sec"": 450}"
+E10808,S0198,PartnerB,SES012,lesson_start,2023-11-10 00:00:00,
+E10809,S0198,PartnerB,SES045,lesson_start,2023-09-11 00:00:00,
+E10810,S0198,PartnerB,SES023,dialogue_join,2023-11-09 00:00:00,
+E10811,S0199,PartnerA,SES020,lesson_complete,2023-11-11 00:00:00,"{""score"": 71}"
+E10812,S0199,PartnerA,SES049,dialogue_join,2023-10-22 00:00:00,
+E10813,S0199,PartnerA,SES022,lesson_start,2023-09-05 00:00:00,
+E10814,S0199,PartnerA,SES037,lesson_complete,2023-11-03 00:00:00,"{""score"": 87}"
+E10815,S0199,PartnerA,SES042,lesson_complete,2023-10-18 00:00:00,"{""score"": 64}"
+E10816,S0199,PartnerA,SES023,video_play,2023-09-16 00:00:00,"{""duration_sec"": 91}"
