@@ -4,7 +4,7 @@
 
 When an organization collects the *same* survey from several partner institutions, every partner sends their data a little differently: different column names, different formats, an extra custom question here, a duplicate submission there. This project builds the small **data warehouse layer** that makes all of it comparable — so leadership can answer *"how are our partners actually doing?"* with confidence.
 
-> Built as a **Senior Data Scientist take-home** (data-foundation & metrics design). It's intentionally a clear, reproducible pipeline rather than a heavy production system — the goal is to show *how* I model and reason about data, end to end.
+> A **data-foundation & metrics design** portfolio project. It's intentionally a clear, reproducible pipeline rather than a heavy production system — the goal is to show *how* I model and reason about data, end to end. *(White-labeled: domain framing is a generic ed-tech partner program; the dataset is synthetic.)*
 
 ---
 
@@ -102,4 +102,4 @@ partner-survey-data-foundation/
 
 ---
 
-<sub>Completed as a Senior Data Scientist data-foundation assessment. Data is synthetic and provided with the exercise. The notebook includes an AI-usage log documenting where assistant tools were used.</sub>
+<sub>Data-engineering portfolio project by Ratna Suthar. White-labeled: presented as a generic ed-tech partner program. The dataset is synthetic. The notebook includes an AI-usage log documenting where assistant tools were used.</sub>
