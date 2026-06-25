@@ -73,8 +73,8 @@ The notebook reports each as numerator / denominator / value so the meaning is u
 ## 🚀 Run it
 
 ```bash
-git clone https://github.com/rs162/partner-survey-data-foundation.git
-cd partner-survey-data-foundation
+git clone https://github.com/rs162/edtech-partner-survey-data-foundation.git
+cd edtech-partner-survey-data-foundation
 
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
